@@ -1,0 +1,106 @@
+/***************************************************************************************
+*	This document describes the functionality of the Edge Layer or the IoT Project.	   *
+*																					   *
+*	Authors: Parth Rampal, Prashant Mishra, 										   *
+*			Rohan Patil, Pushparaj Britto & Harsh Shah								   *
+*																					   *
+*																					   *
+*	Last Modified: 28-Nov-2016														   *
+*																					   *
+*																					   *
+***************************************************************************************/
+
+Dos IOT EDGE:
+
+
+The IOT project can be divided into three layers:
+> The Cloud Layer: Contains the GUI for users	(Runs on Node JS and Angular JS)
+> The Edge layer: Bridges between Cloud and Device layers
+> The Device Layer: Actual End devices are here	(Beagle Bone Black)
+
+This document explauns the Edge Layer of the system.
+
+The Edge code of the project bridges the communication between the device layer and the cloud layer.
+It is hosted on an Apache server version 2.4.4 running a PHP 5.4.16 engine.
+
+Communication:
+
+Cloud ----(HTTP GET Request )----> Edge ---(UDP Packet)---> BBB --- (Poll Sensor)--> Temp Sensor
+
+BBB ------(UDP Packet with temperature)-----> Edge ----(HTTP POST JSON Request)---> Cloud
+
+Cloud---(HTTP GET Request Led Red/blue/off)----> Edge ----(UDP Packet)----->BBB-----> LED
+
+
+
+To get the temperature, Cloud sends a HTTP request to the Edge code in the following format:
+
+http://[AddressOfEdge]/TempEdge.php?frequency=10&timeout=60&precision=3 for temperature
+http://[AddressOfEdge]/LEDEdge.php?LED=1 for LED
+
+Two values are sent to the Edge by the Cloud:
+
+Frequency is the interval at which the Cloud expects a temperature value and timeout is the duration of the entire process.
+
+"The Cloud wants the temperature every 'Frequency' seconds for 'Timeout' seconds."
+
+Edge communicates with the BBB using UDP packets. We chose UDP packets as it is simpler than TCP and does not require a lengthy handshake.
+
+The Edge communicates with the BBB with the following 3 types of messages:
+
+>"GetTemp1": This message asks the BBB to return the temperature value with no averaging.
+>"GetTemp2": This message asks the BBB to return the temperature value with average of 8 values.
+>"GetTemp3": This message asks the BBB to return the temperature value with average of 16 values.
+>"led0": To turn the LED off
+>"led1": To turn on Red light on BBB
+>"led2": To turn on Blue light on BBB
+
+The BBB simply sends the temperature value back to the edge in a UDP packet which the edge communicates back to the cloud
+
+The Cloud then based on a threshold set by the user, sends a GET REQUEST to the EDGE to turn on LED. 
+Red if temperature is above threshold and blue if below.
+If the LED is turned on successfully, the Device sends a UDP packet with an "OK" message. The edge relays this back to the cloud in its HTTP Response.
+After the timeout of the Edge has expired, the Edge sends a UDP packet to the BBB device to turn LED off.
+
+
+HOW TO RUN THE CODE:
+
+> Set up an apache server with PHP and CURL libraries.
+> Place the files LEDEdge.php, pollbbb.php and TempEdge.php on the server
+> Ensure that the server has permissions to read and write to the HTTP folder to store the log files
+> In pollbbb.php the following lines need to be modified:
+	- line 22: URL of the Cloud Server
+	- line 140: IP address of the BBB
+	- line 141: Port number of the BBB
+> In LEDEdge.php the following lines need to be modified:
+	- line 68: IP address of the BBB
+	- line 69: Port number of the BBB	
+> Restart Apache Server
+> Access from browser or cloud with the following GET URLs:
+
+	For Temperature:
+	http://[AddressOfEdge]/TempEdge.php?frequency=10&timeout=60&precision=3
+	
+	For LED:
+	http://[AddressOfEdge]/LEDEdge.php?LED=1
+	
+	where,
+		- [AddressOfEdge] is the IP address or DNS lookup name of the Edge Server.
+		- frequency is the frequency in seconds that the temperature should be retreived with.
+		- timeout is the number of seconds till which the edge will retreive the temperature.
+		- "The Edge will retreive the temperature from the device every 'frequency' seconds for 'timeout' seconds"
+		- precision is the sampling rate of the temperature sensor and can have the integer values 1 (lowest) to 3 (highest).
+		- LED is defined as 1 for Blue, 2 for Red and 0 for off.
+
+
+FUTURE IMPROVEMENTS:
+
+> Enable TLS for all communication over the network.
+> Encrypt the data between Edge and BBB with symmetric key encryption like AES256 CBC along with nonce to prevent replay attacks and hashes for consistency check.
+> Instead of harcoding IP addresses of Cloud, Edge and BBB, create a DNS type device registry where the address of each device is registered and can be found
+
+
+
+
+
+

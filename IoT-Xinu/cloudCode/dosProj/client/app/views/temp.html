@@ -1,0 +1,60 @@
+<div data-ng-controller="TempCtrl">
+    <div class="container-fluid">
+    	<div class="row">
+    	<div id="chartContainer" class="col-md-8 col-lg-8 col-sm-8 col-xs-8 vert-offset-top-3">Placeholder for chart</div>
+      <div class="dashBoardPanel col-md-4 col-lg-4 col-sm-4 col-xs-4 vert-offset-top-3">
+      <div class="row frequencyPanel">
+        <div>
+        <label class="boldLabel">Temperature Request Frequency</label>
+        <md-slider flex="8" md-discrete="" class="md-active" data-ng-model="selectedInterval" data-ng-change="resetTimer()" step="2" min="3" max="13" aria-label="tempFrequency">
+        </md-slider>
+        <span> Current Frequency : {{selectedInterval}} seconds<span>
+        <!-- <select class="form-control" name="selectedInterval" data-ng-model="selectedInterval" data-ng-options="x for x in intervals" data-ng-change="resetTimer()">
+        </select> -->
+        </div>
+      </div>
+      <div class="powerPanel row vert-offset-top-2 vert-offset-bottom-2">
+        <label class="boldLabel"> Sensor Mode </label>
+        <md-slider flex="8" md-discrete="" class="md-active" data-ng-change="setMode()" data-ng-model="mode" step="1" min="1" max="3" aria-label="power">
+        </md-slider>
+        <span> Current Mode : {{currentMode}}<span>
+      </div>
+      <label class="boldLabel"> LED </label>
+      <div class="row vert-offset-top-1">
+
+          <div class="col-md-6 col-lg-6 col-sm-6 col-xs-6">
+            <label class="ledRED">
+              <input type="radio" data-ng-model="led" data-ng-change="sendLED()" data-ng-value="1">
+              <span>Red</span>
+            </label></br>
+            <label class="ledBLUE">
+              <input type="radio" data-ng-model="led" data-ng-change="sendLED()" data-ng-value="2">
+              <span>Blue</span>
+            </label></br>
+            <label class="ledOFF">
+              <input type="radio" data-ng-model="led" data-ng-change="sendLED()" data-ng-value="0">
+              <span>Off</span>
+            </label></br>
+          </div>
+          <div class="col-md-4 col-lg-4 col-sm-4 col-xs-4">
+            <div class="row triggerSwitch">
+              <md-switch data-ng-model="triggerLED" aria-label="LED Trigger">
+                Trigger LED
+              </md-switch>
+            </div>
+            <div class="row threshold">
+              <label> Threshold </label>
+              <input type="number" placeholder="In Celsius" name="celsius" min="-50" max="130" data-ng-model="threshold" step="any"/>
+            </div>
+            <!-- <input type="button" data-ng-click="triggerLED()" value="Trigger LED" class="btn btn-primary"/> -->
+          </div>
+      </div>
+    	</div>
+        <!-- <div class="row">
+          <div class = "col-md-offset-4 col-sm-offset-4 col-xs-offset-4 col-lg-offset-4 vert-offset-top-2 vert-offset-bottom-2">
+          <input type="number" placeholder="In Celsius" name="celsius" data-ng-model="tmp" step="any"/>
+          <input type="button" data-ng-click="addTemp(tmp)" value="Add Value" class="btn btn-primary"/>
+        	</div>
+        </div> -->
+    </div>
+</div>

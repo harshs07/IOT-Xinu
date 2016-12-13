@@ -1,0 +1,1 @@
+{"parameters": [{"range": [0, 1, 2], "type": "integer", "name": "LED"}], "sourceId": "temperature-monitor", "url": "192.168.2.7/LEDEdge", "destinationId": "LEDEdge", "mode": "TCP", "type": "restful", "id": "cloud-setLED"}

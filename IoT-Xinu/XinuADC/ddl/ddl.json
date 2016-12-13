@@ -1,0 +1,367 @@
+{
+	"device": [
+		{
+			"type": "cloud",
+			"id": "temperature-monitor",
+			"interface": {
+				"ip": "192.168.2.4",
+				"port": 4000
+			}
+		},
+		{
+			"type": "edge",
+			"id": "TempEdge",
+			"interface": {
+				"ip": "192.168.2.7/TempEdge",
+				"port": 33000
+			}
+		},
+		{
+			"type": "edge",
+			"id": "LEDEdge",
+			"interface": {
+				"ip": "192.168.2.7/LEDEdge",
+				"port": 33000
+			}
+		},
+		{
+			"type": "beaglebone",
+			"id": "BBBTemp",
+			"interface": {
+				"ip": "192.168.2.6",
+				"port": 31000
+			}
+		},
+		{
+			"type": "beaglebone",
+			"id": "BBBLED",
+			"interface": {
+				"ip": "192.168.2.3",
+				"port": 31000
+			}
+		},
+		{
+			"type": "actuator",
+			"id": "led",
+			"name": "led",
+			"interface": {
+				"connection": {
+					"number": 4,
+					"pin": [
+						{
+							"index": 0,
+							"id": "blue",
+							"port": "8",
+							"pin": "41",
+							"pinName": "gpio2[10]",
+							"direction": "DIR_OUT"
+						},
+						{
+							"index": 1,
+							"id": "common-cathode",
+							"port": "8",
+							"pin": "12",
+							"pinName": "gpio1[12]",
+							"direction": "DIR_OUT"
+						},
+						{
+							"index": 2,
+							"id": "green",
+							"port": null,
+							"pin": null,
+							"pinName": null,
+							"direction": null
+						},
+						{
+							"index": 3,
+							"id": "red",
+							"port": "8",
+							"pin": "11",
+							"pinName": "gpio1[13]",
+							"direction": "DIR_OUT"
+						}
+					]	
+				},
+				"signal": [
+					{
+						"id": 0,
+						"operation": "output",
+						"type": "digital",
+						"measurement": "gpio",
+						"unit": "binary",
+						"method": {
+							"name": "WriteLED_Pins",
+							"configuration": [
+								{
+									"arg": 0,
+									"pin": [
+										{
+											"index": 1,
+											"id": "common-cathode",
+											"level": "high"
+										},
+										{
+											"index": 3,
+											"id": "red",
+											"level": "high"
+										},
+										{
+											"index": 0,
+											"id": "blue",
+											"level": "high"
+										}
+									]
+								},
+								{
+									"arg": 1,
+									"pin": [
+										{
+											"index": 1,
+											"id": "common-cathode",
+											"level": "high"
+										},
+										{
+											"index": 3,
+											"id": "red",
+											"level": "low"
+										},
+										{
+											"index": 0,
+											"id": "blue",
+											"level": "high"
+										}
+									]
+								},
+								{
+									"arg": 2,
+									"pin": [
+										{
+											"index": 1,
+											"id": "common-cathode",
+											"level": "high"
+										},
+										{
+											"index": 3,
+											"id": "red",
+											"level": "high"
+										},
+										{
+											"index": 0,
+											"id": "blue",
+											"level": "low"
+										}
+									]
+								}
+							]
+						}
+					}
+				]
+			}
+
+		},
+		{
+			"type": "sensor",
+			"id": "tmp36",
+			"name": "tmp36",
+			"interface": {
+				"connection": {
+					"number": 3,
+					"pin": [
+						{
+							"index": 0,
+							"id": "GND",
+							"port": 9,
+							"pin": 43,
+							"pinName": "ground"
+						},
+						{
+							"index": 1,
+							"id": "positive",
+							"port": 8,
+							"pin": 41,
+							"pinName": "power-4"
+						},
+						{
+							"index": 2,
+							"id": "analog-input",
+							"port": 9,
+							"pin": 39,
+							"pinName": "ain0"
+						}
+					]
+				},
+				"signal": [
+					{
+						"id": "s1",
+						"operation": "input",
+						"type": "analog",
+						"sampleMode": [
+							{
+								"id": 1,
+								"name": "STEP_AVG0"
+							},
+							{
+								"id": 2,
+								"name": "STEP_AVG8"
+							},
+							{
+								"id": 3,
+								"name": "STEP_AVG16"
+							}
+						],
+						"measurement": "adc",
+						"unit": "integer",
+						"number": 1,
+						"range": {
+							"min": 0,
+							"max": 4095
+						}
+					}
+				],
+				"reading": {
+					"type": "physical",
+					"measurement": "temperature",
+					"unit": "celsius",
+					"method": {
+						"name": "CalculateTemp",
+						"computation": {
+							"type": "formula",
+							"expression": "(((s1 * 1.0 / 4095) * 1800) - 500) / 10",
+							"range": {
+								"min": -40,
+								"max": 125
+							}
+						}
+					}
+				}
+			}
+		}
+	],
+	"interaction": [
+		{
+			"id": "cloud-getTemp",
+			"type": "restful",
+			"sourceId": "temperature-monitor",
+			"destinationId": "TempEdge",
+			"mode": "TCP",
+			"url": "192.168.2.7/TempEdge",
+			"parameters": [
+				{
+					"name": "frequency",
+					"type": "integer",
+					"range": [3, 5, 7, 11, 13]
+				},
+				{
+					"name": "timeout",
+					"type": "integer",
+					"range": [60]
+				},
+				{
+					"name": "precision",
+					"type": "integer",
+					"range": [1, 2, 3]
+				}
+			]
+		},
+		{
+			"id": "cloud-setLED",
+			"type": "restful",
+			"sourceId": "temperature-monitor",
+			"destinationId": "LEDEdge",
+			"mode": "TCP",
+			"url": "192.168.2.7/LEDEdge",
+			"parameters": [
+				{
+					"name": "LED",
+					"type": "integer",
+					"range": [0, 1, 2]
+				}
+			]
+		},
+		{
+			"id": "edge-getTemp",
+			"type": "beaglebone",
+			"sourceId": "TempEdge",
+			"destinationId": "BBBTemp",
+			"mode": "UDP",
+			"ip": "192.168.2.6",
+			"port": 31000,
+			"parameters": [
+				{
+					"name": "GetTemp1",
+					"type": "string"
+				},
+				{
+					"name": "GetTemp2",
+					"type": "string"
+				},
+				{
+					"name": "GetTemp3",
+					"type": "string"
+				}
+			]
+		},
+		{
+			"id": "beaglebone-sendTemp",
+			"type": "beaglebone",
+			"sourceId": "BBBTemp",
+			"destinationId": "TempEdge",
+			"mode": "UDP",
+			"parameters": [
+				{
+					"type": "integer"
+				}
+			]
+		},
+		{
+			"id": "edge-SetLED",
+			"type": "beaglebone",
+			"sourceId": "LEDEdge",
+			"destinationId": "BBBLED",
+			"mode": "UDP",
+			"ip": "192.168.2.3",
+			"port": 31000,
+			"parameters": [
+				{
+					"name": "led0",
+					"type": "string"
+				},
+				{
+					"name": "led1",
+					"type": "string"
+				},
+				{
+					"name": "led2",
+					"type": "string"
+				}
+			]
+		},
+		{
+			"id": "LEDWrite",
+			"type": "driver",
+			"sourceId": "BBBLED",
+			"destinationId": "led",
+			"mode": "gpio",
+			"parameters": [
+				{
+					"type": "integer",
+					"range": [0, 1, 2]
+				}
+			]
+		},
+		{
+			"id": "TempRead",
+			"type": "driver",
+			"sourceId": "BBBTemp",
+			"destinationId": "tmp36",
+			"mode": "adc",
+			"parameters": [
+				{
+					"name": "precision",
+					"type": "integer",
+					"range": [1, 2, 3]
+				}
+			]
+		}
+	]
+}

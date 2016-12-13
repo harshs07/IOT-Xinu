@@ -1,0 +1,3 @@
+pin_setdir(8, 41, DIR_OUT);
+pin_setdir(8, 12, DIR_OUT);
+pin_setdir(8, 11, DIR_OUT);

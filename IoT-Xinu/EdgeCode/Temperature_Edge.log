@@ -1,0 +1,815 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:39:15:000000 > Edge Called.
+2016-November-28 00:39:15:000000 > Frequency: 5
+2016-November-28 00:39:15:000000 > Timeout: 20
+2016-November-28 00:39:15:000000 > precision: 2
+2016-November-28 00:39:15:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:41:42:000000 > Edge Called.
+2016-November-28 00:41:42:000000 > Frequency: 5
+2016-November-28 00:41:42:000000 > Timeout: 20
+2016-November-28 00:41:42:000000 > precision: 2
+2016-November-28 00:41:42:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:45:34:000000 > Edge Called.
+2016-November-28 00:45:34:000000 > Frequency: 5
+2016-November-28 00:45:34:000000 > Timeout: 20
+2016-November-28 00:45:34:000000 > precision: 2
+2016-November-28 00:45:34:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:45:58:000000 > Edge Called.
+2016-November-28 00:45:58:000000 > Frequency: 5
+2016-November-28 00:45:58:000000 > Timeout: 20
+2016-November-28 00:45:58:000000 > precision: 2
+2016-November-28 00:45:58:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:47:14:000000 > Edge Called.
+2016-November-28 00:47:14:000000 > Frequency: 3
+2016-November-28 00:47:14:000000 > Timeout: 20
+2016-November-28 00:47:14:000000 > precision: 2
+2016-November-28 00:47:14:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:48:53:000000 > Edge Called.
+2016-November-28 00:48:53:000000 > Frequency: 3
+2016-November-28 00:48:53:000000 > Timeout: 20
+2016-November-28 00:48:53:000000 > precision: 2
+2016-November-28 00:48:53:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 00:48:53:000000 > Curl initialized.
+2016-November-28 00:48:53:000000 > Socket Created.
+2016-November-28 00:48:53:000000 > Socket bind OK.
+2016-November-28 00:48:53:000000 > Polling BBB...
+2016-November-28 00:48:53:000000 > UDP getTemp2 sent to BBB.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:08:33:000000 > Edge Called.
+2016-November-28 01:08:33:000000 > Frequency: 5
+2016-November-28 01:08:33:000000 > Timeout: 20
+2016-November-28 01:08:33:000000 > precision: 2
+2016-November-28 01:08:33:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 01:08:33:000000 > Curl initialized.
+2016-November-28 01:08:33:000000 > Socket Created.
+2016-November-28 01:08:33:000000 > Socket Already bound. Continuing...
+2016-November-28 01:08:33:000000 > Polling BBB...
+2016-November-28 01:08:33:000000 > UDP getTemp2 sent to BBB.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:17:05:000000 > Edge Called.
+2016-November-28 01:17:05:000000 > Frequency: 5
+2016-November-28 01:17:05:000000 > Timeout: 20
+2016-November-28 01:17:05:000000 > precision: 2
+2016-November-28 01:17:05:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 01:17:05:000000 > Curl initialized.
+2016-November-28 01:17:05:000000 > Socket Created.
+2016-November-28 01:17:05:000000 > Socket Already bound. Continuing...
+2016-November-28 01:17:05:000000 > Polling BBB...
+2016-November-28 01:17:05:000000 > UDP getTemp2 sent to BBB.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:22:35:000000 > Edge Called.
+2016-November-28 01:22:35:000000 > Frequency: 5
+2016-November-28 01:22:35:000000 > Timeout: 20
+2016-November-28 01:22:35:000000 > precision: 2
+2016-November-28 01:22:35:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 01:22:35:000000 > Curl initialized.
+2016-November-28 01:22:35:000000 > Socket Created.
+2016-November-28 01:22:35:000000 > Socket bind OK.
+2016-November-28 01:22:35:000000 > Polling BBB...
+2016-November-28 01:22:35:000000 > UDP getTemp2 sent to BBB.
+2016-November-28 01:22:35:000000 > 5 bytes of Temperature received: 25956 degrees.
+2016-November-28 01:22:35:000000 > Temperature received = 25.956 degrees.
+2016-November-28 01:22:35:000000 > JSON encoded.
+2016-November-28 01:22:35:000000 > HTTP POST Request generated.
+2016-November-28 01:22:38:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 01:22:38:000000 > Error: call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 01:22:38:000000 > Reconnecting to cloud..
+2016-November-28 01:22:41:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 01:22:41:000000 >  Error: Retry Failed. Call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 01:22:41:000000 > Sleeping for 5 seconds...
+2016-November-28 01:22:46:000000 > Count is 5 .
+2016-November-28 01:22:46:000000 > Polling BBB...
+2016-November-28 01:22:46:000000 > UDP getTemp2 sent to BBB.
+2016-November-28 01:22:46:000000 > 5 bytes of Temperature received: 26000 degrees.
+2016-November-28 01:22:46:000000 > Temperature received = 26 degrees.
+2016-November-28 01:22:46:000000 > JSON encoded.
+2016-November-28 01:22:46:000000 > HTTP POST Request generated.
+2016-November-28 01:22:49:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 01:22:49:000000 > Error: call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 01:22:49:000000 > Reconnecting to cloud..
+2016-November-28 01:22:52:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 01:22:52:000000 >  Error: Retry Failed. Call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 01:22:52:000000 > Sleeping for 5 seconds...
+2016-November-28 01:22:57:000000 > Count is 10 .
+2016-November-28 01:22:57:000000 > Polling BBB...
+2016-November-28 01:22:57:000000 > UDP getTemp2 sent to BBB.
+2016-November-28 01:22:57:000000 > 5 bytes of Temperature received: 25956 degrees.
+2016-November-28 01:22:57:000000 > Temperature received = 25.956 degrees.
+2016-November-28 01:22:57:000000 > JSON encoded.
+2016-November-28 01:22:57:000000 > HTTP POST Request generated.
+2016-November-28 01:23:00:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 01:23:00:000000 > Error: call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 01:23:00:000000 > Reconnecting to cloud..
+2016-November-28 01:23:03:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 01:23:03:000000 >  Error: Retry Failed. Call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 01:23:03:000000 > Sleeping for 5 seconds...
+2016-November-28 01:23:08:000000 > Count is 15 .
+2016-November-28 01:23:08:000000 > Polling BBB...
+2016-November-28 01:23:08:000000 > UDP getTemp2 sent to BBB.
+2016-November-28 01:23:09:000000 > 5 bytes of Temperature received: 25956 degrees.
+2016-November-28 01:23:09:000000 > Temperature received = 25.956 degrees.
+2016-November-28 01:23:09:000000 > JSON encoded.
+2016-November-28 01:23:09:000000 > HTTP POST Request generated.
+2016-November-28 01:23:09:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:23:09:000000 > Sleeping for 5 seconds...
+2016-November-28 01:23:14:000000 > Count is 20 .
+2016-November-28 01:23:14:000000 > Curl Closed.
+2016-November-28 01:23:14:000000 > Socket Closed.
+2016-November-28 01:23:14:000000 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:23:14:000000 > Edge Called.
+2016-November-28 01:23:14:000000 > Frequency: 7
+2016-November-28 01:23:14:000000 > Timeout: 60
+2016-November-28 01:23:14:000000 > precision: 1
+2016-November-28 01:23:14:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 01:23:14:000000 > Curl initialized.
+2016-November-28 01:23:14:000000 > Socket Created.
+2016-November-28 01:23:14:000000 > Socket bind OK.
+2016-November-28 01:23:14:000000 > Polling BBB...
+2016-November-28 01:23:14:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:23:14:000000 > 5 bytes of Temperature received: 25956 degrees.
+2016-November-28 01:23:14:000000 > Temperature received = 25.956 degrees.
+2016-November-28 01:23:14:000000 > JSON encoded.
+2016-November-28 01:23:14:000000 > HTTP POST Request generated.
+2016-November-28 01:23:14:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:23:14:000000 > Sleeping for 7 seconds...
+2016-November-28 01:23:21:000000 > Count is 7 .
+2016-November-28 01:23:21:000000 > Polling BBB...
+2016-November-28 01:23:21:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:23:21:000000 > 5 bytes of Temperature received: 25956 degrees.
+2016-November-28 01:23:21:000000 > Temperature received = 25.956 degrees.
+2016-November-28 01:23:21:000000 > JSON encoded.
+2016-November-28 01:23:21:000000 > HTTP POST Request generated.
+2016-November-28 01:23:21:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:23:21:000000 > Sleeping for 7 seconds...
+2016-November-28 01:23:28:000000 > Count is 14 .
+2016-November-28 01:23:28:000000 > Polling BBB...
+2016-November-28 01:23:28:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:23:28:000000 > 5 bytes of Temperature received: 25956 degrees.
+2016-November-28 01:23:28:000000 > Temperature received = 25.956 degrees.
+2016-November-28 01:23:28:000000 > JSON encoded.
+2016-November-28 01:23:28:000000 > HTTP POST Request generated.
+2016-November-28 01:23:29:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:23:29:000000 > Sleeping for 7 seconds...
+2016-November-28 01:23:36:000000 > Count is 21 .
+2016-November-28 01:23:36:000000 > Polling BBB...
+2016-November-28 01:23:36:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:23:36:000000 > 5 bytes of Temperature received: 25956 degrees.
+2016-November-28 01:23:36:000000 > Temperature received = 25.956 degrees.
+2016-November-28 01:23:36:000000 > JSON encoded.
+2016-November-28 01:23:36:000000 > HTTP POST Request generated.
+2016-November-28 01:23:36:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:23:36:000000 > Sleeping for 7 seconds...
+2016-November-28 01:23:43:000000 > Count is 28 .
+2016-November-28 01:23:43:000000 > Polling BBB...
+2016-November-28 01:23:43:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:23:43:000000 > 5 bytes of Temperature received: 26000 degrees.
+2016-November-28 01:23:43:000000 > Temperature received = 26 degrees.
+2016-November-28 01:23:43:000000 > JSON encoded.
+2016-November-28 01:23:43:000000 > HTTP POST Request generated.
+2016-November-28 01:23:43:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:23:43:000000 > Sleeping for 7 seconds...
+2016-November-28 01:23:50:000000 > Count is 35 .
+2016-November-28 01:23:50:000000 > Polling BBB...
+2016-November-28 01:23:50:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:23:50:000000 > 5 bytes of Temperature received: 25956 degrees.
+2016-November-28 01:23:50:000000 > Temperature received = 25.956 degrees.
+2016-November-28 01:23:50:000000 > JSON encoded.
+2016-November-28 01:23:50:000000 > HTTP POST Request generated.
+2016-November-28 01:23:50:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:23:50:000000 > Sleeping for 7 seconds...
+2016-November-28 01:23:57:000000 > Count is 42 .
+2016-November-28 01:23:57:000000 > Polling BBB...
+2016-November-28 01:23:57:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:23:57:000000 > 5 bytes of Temperature received: 27582 degrees.
+2016-November-28 01:23:57:000000 > Temperature received = 27.582 degrees.
+2016-November-28 01:23:57:000000 > JSON encoded.
+2016-November-28 01:23:57:000000 > HTTP POST Request generated.
+2016-November-28 01:23:57:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:23:57:000000 > Sleeping for 7 seconds...
+2016-November-28 01:24:04:000000 > Count is 49 .
+2016-November-28 01:24:04:000000 > Polling BBB...
+2016-November-28 01:24:04:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:24:04:000000 > 5 bytes of Temperature received: 29340 degrees.
+2016-November-28 01:24:04:000000 > Temperature received = 29.34 degrees.
+2016-November-28 01:24:04:000000 > JSON encoded.
+2016-November-28 01:24:04:000000 > HTTP POST Request generated.
+2016-November-28 01:24:04:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:24:04:000000 > Sleeping for 7 seconds...
+2016-November-28 01:24:11:000000 > Count is 56 .
+2016-November-28 01:24:11:000000 > Polling BBB...
+2016-November-28 01:24:11:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:24:11:000000 > 5 bytes of Temperature received: 30131 degrees.
+2016-November-28 01:24:11:000000 > Temperature received = 30.131 degrees.
+2016-November-28 01:24:11:000000 > JSON encoded.
+2016-November-28 01:24:11:000000 > HTTP POST Request generated.
+2016-November-28 01:24:11:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:24:11:000000 > Sleeping for 7 seconds...
+2016-November-28 01:24:18:000000 > Count is 63 .
+2016-November-28 01:24:18:000000 > Curl Closed.
+2016-November-28 01:24:18:000000 > Socket Closed.
+2016-November-28 01:24:18:000000 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:25:16:000000 > Edge Called.
+2016-November-28 01:25:16:000000 > Frequency: 5
+2016-November-28 01:25:16:000000 > Timeout: 60
+2016-November-28 01:25:16:000000 > precision: 1
+2016-November-28 01:25:16:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 01:25:16:000000 > Curl initialized.
+2016-November-28 01:25:16:000000 > Socket Created.
+2016-November-28 01:25:16:000000 > Socket bind OK.
+2016-November-28 01:25:16:000000 > Polling BBB...
+2016-November-28 01:25:16:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:25:17:000000 > 5 bytes of Temperature received: 26791 degrees.
+2016-November-28 01:25:17:000000 > Temperature received = 26.791 degrees.
+2016-November-28 01:25:17:000000 > JSON encoded.
+2016-November-28 01:25:17:000000 > HTTP POST Request generated.
+2016-November-28 01:25:17:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:25:17:000000 > Sleeping for 5 seconds...
+2016-November-28 01:25:22:000000 > Count is 5 .
+2016-November-28 01:25:22:000000 > Polling BBB...
+2016-November-28 01:25:22:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:25:22:000000 > 5 bytes of Temperature received: 26791 degrees.
+2016-November-28 01:25:22:000000 > Temperature received = 26.791 degrees.
+2016-November-28 01:25:22:000000 > JSON encoded.
+2016-November-28 01:25:22:000000 > HTTP POST Request generated.
+2016-November-28 01:25:22:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:25:22:000000 > Sleeping for 5 seconds...
+2016-November-28 01:25:27:000000 > Count is 10 .
+2016-November-28 01:25:27:000000 > Polling BBB...
+2016-November-28 01:25:27:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:25:27:000000 > 5 bytes of Temperature received: 26615 degrees.
+2016-November-28 01:25:27:000000 > Temperature received = 26.615 degrees.
+2016-November-28 01:25:27:000000 > JSON encoded.
+2016-November-28 01:25:27:000000 > HTTP POST Request generated.
+2016-November-28 01:25:27:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:25:27:000000 > Sleeping for 5 seconds...
+2016-November-28 01:25:32:000000 > Count is 15 .
+2016-November-28 01:25:32:000000 > Polling BBB...
+2016-November-28 01:25:32:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:25:32:000000 > 5 bytes of Temperature received: 26615 degrees.
+2016-November-28 01:25:32:000000 > Temperature received = 26.615 degrees.
+2016-November-28 01:25:32:000000 > JSON encoded.
+2016-November-28 01:25:32:000000 > HTTP POST Request generated.
+2016-November-28 01:25:32:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:25:32:000000 > Sleeping for 5 seconds...
+2016-November-28 01:25:37:000000 > Count is 20 .
+2016-November-28 01:25:37:000000 > Polling BBB...
+2016-November-28 01:25:37:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:25:37:000000 > 5 bytes of Temperature received: 26571 degrees.
+2016-November-28 01:25:37:000000 > Temperature received = 26.571 degrees.
+2016-November-28 01:25:37:000000 > JSON encoded.
+2016-November-28 01:25:37:000000 > HTTP POST Request generated.
+2016-November-28 01:25:37:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:25:37:000000 > Sleeping for 5 seconds...
+2016-November-28 01:25:42:000000 > Count is 25 .
+2016-November-28 01:25:42:000000 > Polling BBB...
+2016-November-28 01:25:42:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:25:42:000000 > 5 bytes of Temperature received: 26527 degrees.
+2016-November-28 01:25:42:000000 > Temperature received = 26.527 degrees.
+2016-November-28 01:25:42:000000 > JSON encoded.
+2016-November-28 01:25:42:000000 > HTTP POST Request generated.
+2016-November-28 01:25:42:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:25:42:000000 > Sleeping for 5 seconds...
+2016-November-28 01:25:47:000000 > Count is 30 .
+2016-November-28 01:25:47:000000 > Polling BBB...
+2016-November-28 01:25:47:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:25:47:000000 > 5 bytes of Temperature received: 26571 degrees.
+2016-November-28 01:25:47:000000 > Temperature received = 26.571 degrees.
+2016-November-28 01:25:47:000000 > JSON encoded.
+2016-November-28 01:25:47:000000 > HTTP POST Request generated.
+2016-November-28 01:25:47:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:25:47:000000 > Sleeping for 5 seconds...
+2016-November-28 01:25:52:000000 > Count is 35 .
+2016-November-28 01:25:52:000000 > Polling BBB...
+2016-November-28 01:25:52:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:25:53:000000 > 5 bytes of Temperature received: 26483 degrees.
+2016-November-28 01:25:53:000000 > Temperature received = 26.483 degrees.
+2016-November-28 01:25:53:000000 > JSON encoded.
+2016-November-28 01:25:53:000000 > HTTP POST Request generated.
+2016-November-28 01:25:53:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:25:53:000000 > Sleeping for 5 seconds...
+2016-November-28 01:25:58:000000 > Count is 40 .
+2016-November-28 01:25:58:000000 > Polling BBB...
+2016-November-28 01:25:58:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:25:58:000000 > 5 bytes of Temperature received: 26395 degrees.
+2016-November-28 01:25:58:000000 > Temperature received = 26.395 degrees.
+2016-November-28 01:25:58:000000 > JSON encoded.
+2016-November-28 01:25:58:000000 > HTTP POST Request generated.
+2016-November-28 01:25:58:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:25:58:000000 > Sleeping for 5 seconds...
+2016-November-28 01:26:03:000000 > Count is 45 .
+2016-November-28 01:26:03:000000 > Polling BBB...
+2016-November-28 01:26:03:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:26:03:000000 > 5 bytes of Temperature received: 26307 degrees.
+2016-November-28 01:26:03:000000 > Temperature received = 26.307 degrees.
+2016-November-28 01:26:03:000000 > JSON encoded.
+2016-November-28 01:26:03:000000 > HTTP POST Request generated.
+2016-November-28 01:26:03:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:26:03:000000 > Sleeping for 5 seconds...
+2016-November-28 01:26:08:000000 > Count is 50 .
+2016-November-28 01:26:08:000000 > Polling BBB...
+2016-November-28 01:26:08:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:26:08:000000 > 5 bytes of Temperature received: 26263 degrees.
+2016-November-28 01:26:08:000000 > Temperature received = 26.263 degrees.
+2016-November-28 01:26:08:000000 > JSON encoded.
+2016-November-28 01:26:08:000000 > HTTP POST Request generated.
+2016-November-28 01:26:08:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:26:08:000000 > Sleeping for 5 seconds...
+2016-November-28 01:26:13:000000 > Count is 55 .
+2016-November-28 01:26:13:000000 > Polling BBB...
+2016-November-28 01:26:13:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:26:13:000000 > 5 bytes of Temperature received: 26307 degrees.
+2016-November-28 01:26:13:000000 > Temperature received = 26.307 degrees.
+2016-November-28 01:26:13:000000 > JSON encoded.
+2016-November-28 01:26:13:000000 > HTTP POST Request generated.
+2016-November-28 01:26:13:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:26:13:000000 > Sleeping for 5 seconds...
+2016-November-28 01:26:18:000000 > Count is 60 .
+2016-November-28 01:26:18:000000 > Curl Closed.
+2016-November-28 01:26:18:000000 > Socket Closed.
+2016-November-28 01:26:18:000000 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:27:12:000000 > Edge Called.
+2016-November-28 01:27:12:000000 > Frequency: 7
+2016-November-28 01:27:12:000000 > Timeout: 60
+2016-November-28 01:27:12:000000 > precision: 1
+2016-November-28 01:27:12:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 01:27:12:000000 > Curl initialized.
+2016-November-28 01:27:12:000000 > Socket Created.
+2016-November-28 01:27:12:000000 > Socket bind OK.
+2016-November-28 01:27:12:000000 > Polling BBB...
+2016-November-28 01:27:12:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:27:12:000000 > 5 bytes of Temperature received: 26131 degrees.
+2016-November-28 01:27:12:000000 > Temperature received = 26.131 degrees.
+2016-November-28 01:27:12:000000 > JSON encoded.
+2016-November-28 01:27:12:000000 > HTTP POST Request generated.
+2016-November-28 01:27:12:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:27:12:000000 > Sleeping for 7 seconds...
+2016-November-28 01:27:19:000000 > Count is 7 .
+2016-November-28 01:27:19:000000 > Polling BBB...
+2016-November-28 01:27:19:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:27:19:000000 > 5 bytes of Temperature received: 26087 degrees.
+2016-November-28 01:27:19:000000 > Temperature received = 26.087 degrees.
+2016-November-28 01:27:19:000000 > JSON encoded.
+2016-November-28 01:27:19:000000 > HTTP POST Request generated.
+2016-November-28 01:27:19:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:27:19:000000 > Sleeping for 7 seconds...
+2016-November-28 01:27:26:000000 > Count is 14 .
+2016-November-28 01:27:26:000000 > Polling BBB...
+2016-November-28 01:27:26:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:27:26:000000 > 5 bytes of Temperature received: 26087 degrees.
+2016-November-28 01:27:26:000000 > Temperature received = 26.087 degrees.
+2016-November-28 01:27:26:000000 > JSON encoded.
+2016-November-28 01:27:26:000000 > HTTP POST Request generated.
+2016-November-28 01:27:27:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:27:27:000000 > Sleeping for 7 seconds...
+2016-November-28 01:27:34:000000 > Count is 21 .
+2016-November-28 01:27:34:000000 > Polling BBB...
+2016-November-28 01:27:34:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:27:34:000000 > 5 bytes of Temperature received: 26131 degrees.
+2016-November-28 01:27:34:000000 > Temperature received = 26.131 degrees.
+2016-November-28 01:27:34:000000 > JSON encoded.
+2016-November-28 01:27:34:000000 > HTTP POST Request generated.
+2016-November-28 01:27:34:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:27:34:000000 > Sleeping for 7 seconds...
+2016-November-28 01:27:41:000000 > Count is 28 .
+2016-November-28 01:27:41:000000 > Polling BBB...
+2016-November-28 01:27:41:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:27:41:000000 > 5 bytes of Temperature received: 26000 degrees.
+2016-November-28 01:27:41:000000 > Temperature received = 26 degrees.
+2016-November-28 01:27:41:000000 > JSON encoded.
+2016-November-28 01:27:41:000000 > HTTP POST Request generated.
+2016-November-28 01:27:41:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:27:41:000000 > Sleeping for 7 seconds...
+2016-November-28 01:27:48:000000 > Count is 35 .
+2016-November-28 01:27:48:000000 > Polling BBB...
+2016-November-28 01:27:48:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:27:48:000000 > 5 bytes of Temperature received: 26087 degrees.
+2016-November-28 01:27:48:000000 > Temperature received = 26.087 degrees.
+2016-November-28 01:27:48:000000 > JSON encoded.
+2016-November-28 01:27:48:000000 > HTTP POST Request generated.
+2016-November-28 01:27:48:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:27:48:000000 > Sleeping for 7 seconds...
+2016-November-28 01:27:55:000000 > Count is 42 .
+2016-November-28 01:27:55:000000 > Polling BBB...
+2016-November-28 01:27:55:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:27:55:000000 > 5 bytes of Temperature received: 26087 degrees.
+2016-November-28 01:27:55:000000 > Temperature received = 26.087 degrees.
+2016-November-28 01:27:55:000000 > JSON encoded.
+2016-November-28 01:27:55:000000 > HTTP POST Request generated.
+2016-November-28 01:27:55:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:27:55:000000 > Sleeping for 7 seconds...
+2016-November-28 01:28:02:000000 > Count is 49 .
+2016-November-28 01:28:02:000000 > Polling BBB...
+2016-November-28 01:28:02:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:28:02:000000 > 5 bytes of Temperature received: 26000 degrees.
+2016-November-28 01:28:02:000000 > Temperature received = 26 degrees.
+2016-November-28 01:28:02:000000 > JSON encoded.
+2016-November-28 01:28:02:000000 > HTTP POST Request generated.
+2016-November-28 01:28:02:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:28:02:000000 > Sleeping for 7 seconds...
+2016-November-28 01:28:09:000000 > Count is 56 .
+2016-November-28 01:28:09:000000 > Polling BBB...
+2016-November-28 01:28:09:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:28:09:000000 > 5 bytes of Temperature received: 26131 degrees.
+2016-November-28 01:28:09:000000 > Temperature received = 26.131 degrees.
+2016-November-28 01:28:09:000000 > JSON encoded.
+2016-November-28 01:28:09:000000 > HTTP POST Request generated.
+2016-November-28 01:28:09:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:28:09:000000 > Sleeping for 7 seconds...
+2016-November-28 01:28:16:000000 > Count is 63 .
+2016-November-28 01:28:16:000000 > Curl Closed.
+2016-November-28 01:28:16:000000 > Socket Closed.
+2016-November-28 01:28:16:000000 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:30:19:000000 > Edge Called.
+2016-November-28 01:30:19:000000 > Frequency: 7
+2016-November-28 01:30:19:000000 > Timeout: 60
+2016-November-28 01:30:19:000000 > precision: 1
+2016-November-28 01:30:19:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 01:30:19:000000 > Curl initialized.
+2016-November-28 01:30:19:000000 > Socket Created.
+2016-November-28 01:30:19:000000 > Socket bind OK.
+2016-November-28 01:30:19:000000 > Polling BBB...
+2016-November-28 01:30:19:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:30:19:000000 > 5 bytes of Temperature received: 26000 degrees.
+2016-November-28 01:30:19:000000 > Temperature received = 26 degrees.
+2016-November-28 01:30:19:000000 > JSON encoded.
+2016-November-28 01:30:19:000000 > HTTP POST Request generated.
+2016-November-28 01:30:20:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:30:20:000000 > Sleeping for 7 seconds...
+2016-November-28 01:30:27:000000 > Count is 7 .
+2016-November-28 01:30:27:000000 > Polling BBB...
+2016-November-28 01:30:27:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:30:27:000000 > 5 bytes of Temperature received: 25956 degrees.
+2016-November-28 01:30:27:000000 > Temperature received = 25.956 degrees.
+2016-November-28 01:30:27:000000 > JSON encoded.
+2016-November-28 01:30:27:000000 > HTTP POST Request generated.
+2016-November-28 01:30:27:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:30:27:000000 > Sleeping for 7 seconds...
+2016-November-28 01:30:34:000000 > Count is 14 .
+2016-November-28 01:30:34:000000 > Polling BBB...
+2016-November-28 01:30:34:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:30:34:000000 > 5 bytes of Temperature received: 26000 degrees.
+2016-November-28 01:30:34:000000 > Temperature received = 26 degrees.
+2016-November-28 01:30:34:000000 > JSON encoded.
+2016-November-28 01:30:34:000000 > HTTP POST Request generated.
+2016-November-28 01:30:34:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:30:34:000000 > Sleeping for 7 seconds...
+2016-November-28 01:30:41:000000 > Count is 21 .
+2016-November-28 01:30:41:000000 > Polling BBB...
+2016-November-28 01:30:41:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:30:41:000000 > 5 bytes of Temperature received: 29736 degrees.
+2016-November-28 01:30:41:000000 > Temperature received = 29.736 degrees.
+2016-November-28 01:30:41:000000 > JSON encoded.
+2016-November-28 01:30:41:000000 > HTTP POST Request generated.
+2016-November-28 01:30:41:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:30:41:000000 > Sleeping for 7 seconds...
+2016-November-28 01:30:48:000000 > Count is 28 .
+2016-November-28 01:30:48:000000 > Polling BBB...
+2016-November-28 01:30:48:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:30:48:000000 > 5 bytes of Temperature received: 30835 degrees.
+2016-November-28 01:30:48:000000 > Temperature received = 30.835 degrees.
+2016-November-28 01:30:48:000000 > JSON encoded.
+2016-November-28 01:30:48:000000 > HTTP POST Request generated.
+2016-November-28 01:30:48:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:30:48:000000 > Sleeping for 7 seconds...
+2016-November-28 01:30:55:000000 > Count is 35 .
+2016-November-28 01:30:55:000000 > Polling BBB...
+2016-November-28 01:30:55:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:30:55:000000 > 5 bytes of Temperature received: 28549 degrees.
+2016-November-28 01:30:55:000000 > Temperature received = 28.549 degrees.
+2016-November-28 01:30:55:000000 > JSON encoded.
+2016-November-28 01:30:55:000000 > HTTP POST Request generated.
+2016-November-28 01:30:55:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:30:55:000000 > Sleeping for 7 seconds...
+2016-November-28 01:31:02:000000 > Count is 42 .
+2016-November-28 01:31:02:000000 > Polling BBB...
+2016-November-28 01:31:02:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:31:02:000000 > 5 bytes of Temperature received: 27494 degrees.
+2016-November-28 01:31:02:000000 > Temperature received = 27.494 degrees.
+2016-November-28 01:31:02:000000 > JSON encoded.
+2016-November-28 01:31:02:000000 > HTTP POST Request generated.
+2016-November-28 01:31:02:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:31:02:000000 > Sleeping for 7 seconds...
+2016-November-28 01:31:09:000000 > Count is 49 .
+2016-November-28 01:31:09:000000 > Polling BBB...
+2016-November-28 01:31:09:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:31:10:000000 > 5 bytes of Temperature received: 27054 degrees.
+2016-November-28 01:31:10:000000 > Temperature received = 27.054 degrees.
+2016-November-28 01:31:10:000000 > JSON encoded.
+2016-November-28 01:31:10:000000 > HTTP POST Request generated.
+2016-November-28 01:31:10:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:31:10:000000 > Sleeping for 7 seconds...
+2016-November-28 01:31:17:000000 > Count is 56 .
+2016-November-28 01:31:17:000000 > Polling BBB...
+2016-November-28 01:31:17:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:31:17:000000 > 5 bytes of Temperature received: 26923 degrees.
+2016-November-28 01:31:17:000000 > Temperature received = 26.923 degrees.
+2016-November-28 01:31:17:000000 > JSON encoded.
+2016-November-28 01:31:17:000000 > HTTP POST Request generated.
+2016-November-28 01:31:17:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:31:17:000000 > Sleeping for 7 seconds...
+2016-November-28 01:31:24:000000 > Count is 63 .
+2016-November-28 01:31:24:000000 > Curl Closed.
+2016-November-28 01:31:24:000000 > Socket Closed.
+2016-November-28 01:31:24:000000 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:31:42:000000 > Edge Called.
+2016-November-28 01:31:42:000000 > Frequency: 5
+2016-November-28 01:31:42:000000 > Timeout: 60
+2016-November-28 01:31:42:000000 > precision: 1
+2016-November-28 01:31:42:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 01:31:42:000000 > Curl initialized.
+2016-November-28 01:31:42:000000 > Socket Created.
+2016-November-28 01:31:42:000000 > Socket bind OK.
+2016-November-28 01:31:42:000000 > Polling BBB...
+2016-November-28 01:31:42:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:31:42:000000 > 5 bytes of Temperature received: 26571 degrees.
+2016-November-28 01:31:42:000000 > Temperature received = 26.571 degrees.
+2016-November-28 01:31:42:000000 > JSON encoded.
+2016-November-28 01:31:42:000000 > HTTP POST Request generated.
+2016-November-28 01:31:42:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:31:42:000000 > Sleeping for 5 seconds...
+2016-November-28 01:31:47:000000 > Count is 5 .
+2016-November-28 01:31:47:000000 > Polling BBB...
+2016-November-28 01:31:47:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:31:47:000000 > 5 bytes of Temperature received: 26439 degrees.
+2016-November-28 01:31:47:000000 > Temperature received = 26.439 degrees.
+2016-November-28 01:31:47:000000 > JSON encoded.
+2016-November-28 01:31:47:000000 > HTTP POST Request generated.
+2016-November-28 01:31:47:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:31:47:000000 > Sleeping for 5 seconds...
+2016-November-28 01:31:52:000000 > Count is 10 .
+2016-November-28 01:31:52:000000 > Polling BBB...
+2016-November-28 01:31:52:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:31:52:000000 > 5 bytes of Temperature received: 26351 degrees.
+2016-November-28 01:31:52:000000 > Temperature received = 26.351 degrees.
+2016-November-28 01:31:52:000000 > JSON encoded.
+2016-November-28 01:31:52:000000 > HTTP POST Request generated.
+2016-November-28 01:31:52:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:31:52:000000 > Sleeping for 5 seconds...
+2016-November-28 01:31:57:000000 > Count is 15 .
+2016-November-28 01:31:57:000000 > Polling BBB...
+2016-November-28 01:31:57:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:31:57:000000 > 5 bytes of Temperature received: 26395 degrees.
+2016-November-28 01:31:57:000000 > Temperature received = 26.395 degrees.
+2016-November-28 01:31:57:000000 > JSON encoded.
+2016-November-28 01:31:57:000000 > HTTP POST Request generated.
+2016-November-28 01:31:57:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:31:57:000000 > Sleeping for 5 seconds...
+2016-November-28 01:32:02:000000 > Count is 20 .
+2016-November-28 01:32:02:000000 > Polling BBB...
+2016-November-28 01:32:02:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:32:03:000000 > 5 bytes of Temperature received: 26351 degrees.
+2016-November-28 01:32:03:000000 > Temperature received = 26.351 degrees.
+2016-November-28 01:32:03:000000 > JSON encoded.
+2016-November-28 01:32:03:000000 > HTTP POST Request generated.
+2016-November-28 01:32:03:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:32:03:000000 > Sleeping for 5 seconds...
+2016-November-28 01:32:08:000000 > Count is 25 .
+2016-November-28 01:32:08:000000 > Polling BBB...
+2016-November-28 01:32:08:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:32:08:000000 > 5 bytes of Temperature received: 26307 degrees.
+2016-November-28 01:32:08:000000 > Temperature received = 26.307 degrees.
+2016-November-28 01:32:08:000000 > JSON encoded.
+2016-November-28 01:32:08:000000 > HTTP POST Request generated.
+2016-November-28 01:32:08:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:32:08:000000 > Sleeping for 5 seconds...
+2016-November-28 01:32:13:000000 > Count is 30 .
+2016-November-28 01:32:13:000000 > Polling BBB...
+2016-November-28 01:32:13:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:32:13:000000 > 5 bytes of Temperature received: 26307 degrees.
+2016-November-28 01:32:13:000000 > Temperature received = 26.307 degrees.
+2016-November-28 01:32:13:000000 > JSON encoded.
+2016-November-28 01:32:13:000000 > HTTP POST Request generated.
+2016-November-28 01:32:13:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:32:13:000000 > Sleeping for 5 seconds...
+2016-November-28 01:32:18:000000 > Count is 35 .
+2016-November-28 01:32:18:000000 > Polling BBB...
+2016-November-28 01:32:18:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:32:18:000000 > 5 bytes of Temperature received: 26263 degrees.
+2016-November-28 01:32:18:000000 > Temperature received = 26.263 degrees.
+2016-November-28 01:32:18:000000 > JSON encoded.
+2016-November-28 01:32:18:000000 > HTTP POST Request generated.
+2016-November-28 01:32:18:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:32:18:000000 > Sleeping for 5 seconds...
+2016-November-28 01:32:23:000000 > Count is 40 .
+2016-November-28 01:32:23:000000 > Polling BBB...
+2016-November-28 01:32:23:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:32:23:000000 > 5 bytes of Temperature received: 26263 degrees.
+2016-November-28 01:32:23:000000 > Temperature received = 26.263 degrees.
+2016-November-28 01:32:23:000000 > JSON encoded.
+2016-November-28 01:32:23:000000 > HTTP POST Request generated.
+2016-November-28 01:32:23:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:32:23:000000 > Sleeping for 5 seconds...
+2016-November-28 01:32:28:000000 > Count is 45 .
+2016-November-28 01:32:28:000000 > Polling BBB...
+2016-November-28 01:32:28:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:32:28:000000 > 5 bytes of Temperature received: 25604 degrees.
+2016-November-28 01:32:28:000000 > Temperature received = 25.604 degrees.
+2016-November-28 01:32:28:000000 > JSON encoded.
+2016-November-28 01:32:28:000000 > HTTP POST Request generated.
+2016-November-28 01:32:28:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:32:28:000000 > Sleeping for 5 seconds...
+2016-November-28 01:32:33:000000 > Count is 50 .
+2016-November-28 01:32:33:000000 > Polling BBB...
+2016-November-28 01:32:33:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:32:33:000000 > 5 bytes of Temperature received: 23626 degrees.
+2016-November-28 01:32:33:000000 > Temperature received = 23.626 degrees.
+2016-November-28 01:32:33:000000 > JSON encoded.
+2016-November-28 01:32:33:000000 > HTTP POST Request generated.
+2016-November-28 01:32:33:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:32:33:000000 > Sleeping for 5 seconds...
+2016-November-28 01:32:38:000000 > Count is 55 .
+2016-November-28 01:32:38:000000 > Polling BBB...
+2016-November-28 01:32:38:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:32:38:000000 > 5 bytes of Temperature received: 23758 degrees.
+2016-November-28 01:32:38:000000 > Temperature received = 23.758 degrees.
+2016-November-28 01:32:38:000000 > JSON encoded.
+2016-November-28 01:32:38:000000 > HTTP POST Request generated.
+2016-November-28 01:32:39:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:32:39:000000 > Sleeping for 5 seconds...
+2016-November-28 01:32:44:000000 > Count is 60 .
+2016-November-28 01:32:44:000000 > Curl Closed.
+2016-November-28 01:32:44:000000 > Socket Closed.
+2016-November-28 01:32:44:000000 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:36:35:000000 > Edge Called.
+2016-November-28 01:36:35:000000 > Frequency: 7
+2016-November-28 01:36:35:000000 > Timeout: 60
+2016-November-28 01:36:35:000000 > precision: 1
+2016-November-28 01:36:35:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 01:36:35:000000 > Curl initialized.
+2016-November-28 01:36:35:000000 > Socket Created.
+2016-November-28 01:36:35:000000 > Socket bind OK.
+2016-November-28 01:36:35:000000 > Polling BBB...
+2016-November-28 01:36:35:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:36:35:000000 > 5 bytes of Temperature received: 25780 degrees.
+2016-November-28 01:36:35:000000 > Temperature received = 25.78 degrees.
+2016-November-28 01:36:35:000000 > JSON encoded.
+2016-November-28 01:36:35:000000 > HTTP POST Request generated.
+2016-November-28 01:36:35:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:36:35:000000 > Sleeping for 7 seconds...
+2016-November-28 01:36:42:000000 > Count is 7 .
+2016-November-28 01:36:42:000000 > Polling BBB...
+2016-November-28 01:36:42:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:36:42:000000 > 5 bytes of Temperature received: 25780 degrees.
+2016-November-28 01:36:42:000000 > Temperature received = 25.78 degrees.
+2016-November-28 01:36:42:000000 > JSON encoded.
+2016-November-28 01:36:42:000000 > HTTP POST Request generated.
+2016-November-28 01:36:42:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:36:42:000000 > Sleeping for 7 seconds...
+2016-November-28 01:36:49:000000 > Count is 14 .
+2016-November-28 01:36:49:000000 > Polling BBB...
+2016-November-28 01:36:49:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:36:49:000000 > 5 bytes of Temperature received: 25736 degrees.
+2016-November-28 01:36:49:000000 > Temperature received = 25.736 degrees.
+2016-November-28 01:36:49:000000 > JSON encoded.
+2016-November-28 01:36:49:000000 > HTTP POST Request generated.
+2016-November-28 01:36:49:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:36:49:000000 > Sleeping for 7 seconds...
+2016-November-28 01:36:56:000000 > Count is 21 .
+2016-November-28 01:36:56:000000 > Polling BBB...
+2016-November-28 01:36:56:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:36:57:000000 > 5 bytes of Temperature received: 25824 degrees.
+2016-November-28 01:36:57:000000 > Temperature received = 25.824 degrees.
+2016-November-28 01:36:57:000000 > JSON encoded.
+2016-November-28 01:36:57:000000 > HTTP POST Request generated.
+2016-November-28 01:36:57:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:36:57:000000 > Sleeping for 7 seconds...
+2016-November-28 01:37:04:000000 > Count is 28 .
+2016-November-28 01:37:04:000000 > Polling BBB...
+2016-November-28 01:37:04:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:37:04:000000 > 5 bytes of Temperature received: 24329 degrees.
+2016-November-28 01:37:04:000000 > Temperature received = 24.329 degrees.
+2016-November-28 01:37:04:000000 > JSON encoded.
+2016-November-28 01:37:04:000000 > HTTP POST Request generated.
+2016-November-28 01:37:04:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:37:04:000000 > Sleeping for 7 seconds...
+2016-November-28 01:37:11:000000 > Count is 35 .
+2016-November-28 01:37:11:000000 > Polling BBB...
+2016-November-28 01:37:11:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:37:11:000000 > 5 bytes of Temperature received: 23186 degrees.
+2016-November-28 01:37:11:000000 > Temperature received = 23.186 degrees.
+2016-November-28 01:37:11:000000 > JSON encoded.
+2016-November-28 01:37:11:000000 > HTTP POST Request generated.
+2016-November-28 01:37:11:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:37:11:000000 > Sleeping for 7 seconds...
+2016-November-28 01:37:18:000000 > Count is 42 .
+2016-November-28 01:37:18:000000 > Polling BBB...
+2016-November-28 01:37:18:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:37:18:000000 > 5 bytes of Temperature received: 24021 degrees.
+2016-November-28 01:37:18:000000 > Temperature received = 24.021 degrees.
+2016-November-28 01:37:18:000000 > JSON encoded.
+2016-November-28 01:37:18:000000 > HTTP POST Request generated.
+2016-November-28 01:37:18:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:37:18:000000 > Sleeping for 7 seconds...
+2016-November-28 01:37:25:000000 > Count is 49 .
+2016-November-28 01:37:25:000000 > Polling BBB...
+2016-November-28 01:37:25:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:37:25:000000 > 5 bytes of Temperature received: 24505 degrees.
+2016-November-28 01:37:25:000000 > Temperature received = 24.505 degrees.
+2016-November-28 01:37:25:000000 > JSON encoded.
+2016-November-28 01:37:25:000000 > HTTP POST Request generated.
+2016-November-28 01:37:25:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:37:25:000000 > Sleeping for 7 seconds...
+2016-November-28 01:37:32:000000 > Count is 56 .
+2016-November-28 01:37:32:000000 > Polling BBB...
+2016-November-28 01:37:32:000000 > UDP getTemp1 sent to BBB.
+2016-November-28 01:37:32:000000 > 5 bytes of Temperature received: 25076 degrees.
+2016-November-28 01:37:32:000000 > Temperature received = 25.076 degrees.
+2016-November-28 01:37:32:000000 > JSON encoded.
+2016-November-28 01:37:32:000000 > HTTP POST Request generated.
+2016-November-28 01:37:32:000000 > HTTP POST Request sent to cloud with status: 201
+2016-November-28 01:37:32:000000 > Sleeping for 7 seconds...
+2016-November-28 01:37:39:000000 > Count is 63 .
+2016-November-28 01:37:39:000000 > Curl Closed.
+2016-November-28 01:37:39:000000 > Socket Closed.
+2016-November-28 01:37:39:000000 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 16:38:14:000000 > Edge Called.
+2016-November-28 16:38:14:000000 > Frequency: 5
+2016-November-28 16:38:14:000000 > Timeout: 20
+2016-November-28 16:38:14:000000 > precision: 2
+2016-November-28 16:38:14:000000 > Cloud IP being used: 192.168.2.3:4000/temp
+2016-November-28 16:38:14:000000 > Curl initialized.
+2016-November-28 16:38:14:000000 > Socket Created.
+2016-November-28 16:38:14:000000 > Socket bind OK.
+2016-November-28 16:38:14:000000 > Polling BBB...
+2016-November-28 16:38:14:000000 > UDP getTemp2 sent to BBB.
+2016-November-28 16:38:14:000000 > 5 bytes of Temperature received: 28000 degrees.
+2016-November-28 16:38:14:000000 > Temperature received = 28 degrees.
+2016-November-28 16:38:14:000000 > JSON encoded.
+2016-November-28 16:38:14:000000 > HTTP POST Request generated.
+2016-November-28 16:38:32:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 16:38:32:000000 > Error: call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 16:38:32:000000 > Reconnecting to cloud..
+2016-November-28 16:38:35:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 16:38:35:000000 >  Error: Retry Failed. Call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 16:38:35:000000 > Sleeping for 5 seconds...
+2016-November-28 16:38:40:000000 > Count is 5 .
+2016-November-28 16:38:40:000000 > Polling BBB...
+2016-November-28 16:38:40:000000 > UDP getTemp2 sent to BBB.
+2016-November-28 16:38:40:000000 > 5 bytes of Temperature received: 28000 degrees.
+2016-November-28 16:38:40:000000 > Temperature received = 28 degrees.
+2016-November-28 16:38:40:000000 > JSON encoded.
+2016-November-28 16:38:40:000000 > HTTP POST Request generated.
+2016-November-28 16:38:43:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 16:38:43:000000 > Error: call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 16:38:43:000000 > Reconnecting to cloud..
+2016-November-28 16:38:46:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 16:38:46:000000 >  Error: Retry Failed. Call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 16:38:46:000000 > Sleeping for 5 seconds...
+2016-November-28 16:38:51:000000 > Count is 10 .
+2016-November-28 16:38:51:000000 > Polling BBB...
+2016-November-28 16:38:51:000000 > UDP getTemp2 sent to BBB.
+2016-November-28 16:38:51:000000 > 5 bytes of Temperature received: 28000 degrees.
+2016-November-28 16:38:51:000000 > Temperature received = 28 degrees.
+2016-November-28 16:38:51:000000 > JSON encoded.
+2016-November-28 16:38:51:000000 > HTTP POST Request generated.
+2016-November-28 16:38:54:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 16:38:54:000000 > Error: call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 16:38:54:000000 > Reconnecting to cloud..
+2016-November-28 16:38:57:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 16:38:57:000000 >  Error: Retry Failed. Call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 16:38:57:000000 > Sleeping for 5 seconds...
+2016-November-28 16:39:02:000000 > Count is 15 .
+2016-November-28 16:39:02:000000 > Polling BBB...
+2016-November-28 16:39:02:000000 > UDP getTemp2 sent to BBB.
+2016-November-28 16:39:02:000000 > 5 bytes of Temperature received: 28000 degrees.
+2016-November-28 16:39:02:000000 > Temperature received = 28 degrees.
+2016-November-28 16:39:02:000000 > JSON encoded.
+2016-November-28 16:39:02:000000 > HTTP POST Request generated.
+2016-November-28 16:39:05:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 16:39:05:000000 > Error: call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 16:39:05:000000 > Reconnecting to cloud..
+2016-November-28 16:39:08:000000 > HTTP POST Request sent to cloud with status: 0
+2016-November-28 16:39:08:000000 >  Error: Retry Failed. Call to URL: 192.168.2.3:4000/temp failed with status: 0, response: , curl_error: Failed to connect to 192.168.2.3 port 4000: No route to host, curl_errno: 7
+2016-November-28 16:39:08:000000 > Sleeping for 5 seconds...
+2016-November-28 16:39:13:000000 > Count is 20 .
+2016-November-28 16:39:13:000000 > Curl Closed.
+2016-November-28 16:39:13:000000 > Socket Closed.
+2016-November-28 16:39:13:000000 > =-EOE-=

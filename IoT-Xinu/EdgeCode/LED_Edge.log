@@ -1,0 +1,1978 @@
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:11:05 > Edge Called.
+2016-November-28 00:11:05 > LED Code:  
+2016-November-28 00:11:05 > Socket Created.
+2016-November-28 00:11:05 > Socket bind OK.
+2016-November-28 00:11:05 > Polling BBB...
+2016-November-28 00:11:05 > UDP sent to BBB.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:14:52 > Edge Called.
+2016-November-28 00:14:52 > LED Code: 1 
+2016-November-28 00:14:52 > Socket Created.
+2016-November-28 00:14:52 > Socket Already bound. Continuing...
+2016-November-28 00:14:52 > Socket bind OK.
+2016-November-28 00:14:52 > Polling BBB...
+2016-November-28 00:14:52 > UDP sent to BBB.
+2016-November-28 00:14:52 > LED Fail.
+2016-November-28 00:14:52 > Socket Closed.
+2016-November-28 00:14:52 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:17:58 > Edge Called.
+2016-November-28 00:17:58 > LED Code: 1 
+2016-November-28 00:17:58 > Socket Created.
+2016-November-28 00:17:58 > Socket bind OK.
+2016-November-28 00:17:58 > Polling BBB...
+2016-November-28 00:17:58 > UDP sent to BBB.
+2016-November-28 00:17:58 > LED OK.
+2016-November-28 00:17:58 > Socket Closed.
+2016-November-28 00:17:58 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:18:04 > Edge Called.
+2016-November-28 00:18:04 > LED Code: 2 
+2016-November-28 00:18:04 > Socket Created.
+2016-November-28 00:18:04 > Socket bind OK.
+2016-November-28 00:18:04 > Polling BBB...
+2016-November-28 00:18:04 > UDP sent to BBB.
+2016-November-28 00:18:04 > LED OK.
+2016-November-28 00:18:04 > Socket Closed.
+2016-November-28 00:18:04 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:18:11 > Edge Called.
+2016-November-28 00:18:11 > LED Code: 0 
+2016-November-28 00:18:11 > Socket Created.
+2016-November-28 00:18:11 > Socket bind OK.
+2016-November-28 00:18:11 > Polling BBB...
+2016-November-28 00:18:11 > UDP sent to BBB.
+2016-November-28 00:18:11 > LED OK.
+2016-November-28 00:18:11 > Socket Closed.
+2016-November-28 00:18:11 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:18:15 > Edge Called.
+2016-November-28 00:18:15 > LED Code: 1 
+2016-November-28 00:18:15 > Socket Created.
+2016-November-28 00:18:15 > Socket bind OK.
+2016-November-28 00:18:15 > Polling BBB...
+2016-November-28 00:18:15 > UDP sent to BBB.
+2016-November-28 00:18:15 > LED OK.
+2016-November-28 00:18:15 > Socket Closed.
+2016-November-28 00:18:15 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:18:20 > Edge Called.
+2016-November-28 00:18:20 > LED Code: 0 
+2016-November-28 00:18:20 > Socket Created.
+2016-November-28 00:18:20 > Socket bind OK.
+2016-November-28 00:18:20 > Polling BBB...
+2016-November-28 00:18:20 > UDP sent to BBB.
+2016-November-28 00:18:20 > LED OK.
+2016-November-28 00:18:20 > Socket Closed.
+2016-November-28 00:18:20 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:42 > Edge Called.
+2016-November-28 00:20:42 > LED Code: 1 
+2016-November-28 00:20:42 > Socket Created.
+2016-November-28 00:20:42 > Socket bind OK.
+2016-November-28 00:20:42 > Polling BBB...
+2016-November-28 00:20:42 > UDP sent to BBB.
+2016-November-28 00:20:42 > LED OK.
+2016-November-28 00:20:42 > Socket Closed.
+2016-November-28 00:20:42 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:48 > Edge Called.
+2016-November-28 00:20:48 > LED Code: 0 
+2016-November-28 00:20:48 > Socket Created.
+2016-November-28 00:20:48 > Socket bind OK.
+2016-November-28 00:20:48 > Polling BBB...
+2016-November-28 00:20:48 > UDP sent to BBB.
+2016-November-28 00:20:48 > LED OK.
+2016-November-28 00:20:48 > Socket Closed.
+2016-November-28 00:20:48 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:48 > Edge Called.
+2016-November-28 00:20:48 > LED Code: 2 
+2016-November-28 00:20:48 > Socket Created.
+2016-November-28 00:20:48 > Socket bind OK.
+2016-November-28 00:20:48 > Polling BBB...
+2016-November-28 00:20:48 > UDP sent to BBB.
+2016-November-28 00:20:48 > LED OK.
+2016-November-28 00:20:48 > Socket Closed.
+2016-November-28 00:20:48 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:49 > Edge Called.
+2016-November-28 00:20:49 > LED Code: 1 
+2016-November-28 00:20:49 > Socket Created.
+2016-November-28 00:20:49 > Socket bind OK.
+2016-November-28 00:20:49 > Polling BBB...
+2016-November-28 00:20:49 > UDP sent to BBB.
+2016-November-28 00:20:49 > LED OK.
+2016-November-28 00:20:49 > Socket Closed.
+2016-November-28 00:20:49 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:49 > Edge Called.
+2016-November-28 00:20:49 > LED Code: 2 
+2016-November-28 00:20:49 > Socket Created.
+2016-November-28 00:20:49 > Socket bind OK.
+2016-November-28 00:20:49 > Polling BBB...
+2016-November-28 00:20:49 > UDP sent to BBB.
+2016-November-28 00:20:49 > LED OK.
+2016-November-28 00:20:49 > Socket Closed.
+2016-November-28 00:20:49 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:49 > Edge Called.
+2016-November-28 00:20:49 > LED Code: 0 
+2016-November-28 00:20:49 > Socket Created.
+2016-November-28 00:20:49 > Socket bind OK.
+2016-November-28 00:20:49 > Polling BBB...
+2016-November-28 00:20:49 > UDP sent to BBB.
+2016-November-28 00:20:49 > LED OK.
+2016-November-28 00:20:49 > Socket Closed.
+2016-November-28 00:20:49 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:57 > Edge Called.
+2016-November-28 00:20:57 > LED Code: 2 
+2016-November-28 00:20:57 > Socket Created.
+2016-November-28 00:20:57 > Socket bind OK.
+2016-November-28 00:20:57 > Polling BBB...
+2016-November-28 00:20:57 > UDP sent to BBB.
+2016-November-28 00:20:57 > LED OK.
+2016-November-28 00:20:57 > Socket Closed.
+2016-November-28 00:20:57 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:57 > Edge Called.
+2016-November-28 00:20:57 > LED Code: 1 
+2016-November-28 00:20:57 > Socket Created.
+2016-November-28 00:20:57 > Socket bind OK.
+2016-November-28 00:20:57 > Polling BBB...
+2016-November-28 00:20:57 > UDP sent to BBB.
+2016-November-28 00:20:57 > LED OK.
+2016-November-28 00:20:57 > Socket Closed.
+2016-November-28 00:20:57 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:58 > Edge Called.
+2016-November-28 00:20:58 > LED Code: 2 
+2016-November-28 00:20:58 > Socket Created.
+2016-November-28 00:20:58 > Socket bind OK.
+2016-November-28 00:20:58 > Polling BBB...
+2016-November-28 00:20:58 > UDP sent to BBB.
+2016-November-28 00:20:58 > LED OK.
+2016-November-28 00:20:58 > Socket Closed.
+2016-November-28 00:20:58 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:58 > Edge Called.
+2016-November-28 00:20:58 > LED Code: 0 
+2016-November-28 00:20:58 > Socket Created.
+2016-November-28 00:20:58 > Socket bind OK.
+2016-November-28 00:20:58 > Polling BBB...
+2016-November-28 00:20:58 > UDP sent to BBB.
+2016-November-28 00:20:58 > LED OK.
+2016-November-28 00:20:58 > Socket Closed.
+2016-November-28 00:20:58 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:58 > Edge Called.
+2016-November-28 00:20:58 > LED Code: 2 
+2016-November-28 00:20:58 > Socket Created.
+2016-November-28 00:20:58 > Socket bind OK.
+2016-November-28 00:20:58 > Polling BBB...
+2016-November-28 00:20:58 > UDP sent to BBB.
+2016-November-28 00:20:58 > LED OK.
+2016-November-28 00:20:58 > Socket Closed.
+2016-November-28 00:20:58 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:20:59 > Edge Called.
+2016-November-28 00:20:59 > LED Code: 1 
+2016-November-28 00:20:59 > Socket Created.
+2016-November-28 00:20:59 > Socket bind OK.
+2016-November-28 00:20:59 > Polling BBB...
+2016-November-28 00:20:59 > UDP sent to BBB.
+2016-November-28 00:20:59 > LED OK.
+2016-November-28 00:20:59 > Socket Closed.
+2016-November-28 00:20:59 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:00 > Edge Called.
+2016-November-28 00:21:00 > LED Code: 2 
+2016-November-28 00:21:00 > Socket Created.
+2016-November-28 00:21:00 > Socket bind OK.
+2016-November-28 00:21:00 > Polling BBB...
+2016-November-28 00:21:00 > UDP sent to BBB.
+2016-November-28 00:21:00 > LED OK.
+2016-November-28 00:21:00 > Socket Closed.
+2016-November-28 00:21:00 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:00 > Edge Called.
+2016-November-28 00:21:00 > LED Code: 0 
+2016-November-28 00:21:00 > Socket Created.
+2016-November-28 00:21:00 > Socket bind OK.
+2016-November-28 00:21:00 > Polling BBB...
+2016-November-28 00:21:00 > UDP sent to BBB.
+2016-November-28 00:21:00 > LED OK.
+2016-November-28 00:21:00 > Socket Closed.
+2016-November-28 00:21:00 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:01 > Edge Called.
+2016-November-28 00:21:01 > LED Code: 2 
+2016-November-28 00:21:01 > Socket Created.
+2016-November-28 00:21:01 > Socket bind OK.
+2016-November-28 00:21:01 > Polling BBB...
+2016-November-28 00:21:01 > UDP sent to BBB.
+2016-November-28 00:21:01 > LED OK.
+2016-November-28 00:21:01 > Socket Closed.
+2016-November-28 00:21:01 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:02 > Edge Called.
+2016-November-28 00:21:02 > LED Code: 1 
+2016-November-28 00:21:02 > Socket Created.
+2016-November-28 00:21:02 > Socket bind OK.
+2016-November-28 00:21:02 > Polling BBB...
+2016-November-28 00:21:02 > UDP sent to BBB.
+2016-November-28 00:21:02 > LED OK.
+2016-November-28 00:21:02 > Socket Closed.
+2016-November-28 00:21:02 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:02 > Edge Called.
+2016-November-28 00:21:02 > LED Code: 0 
+2016-November-28 00:21:02 > Socket Created.
+2016-November-28 00:21:02 > Socket bind OK.
+2016-November-28 00:21:02 > Polling BBB...
+2016-November-28 00:21:02 > UDP sent to BBB.
+2016-November-28 00:21:02 > LED OK.
+2016-November-28 00:21:02 > Socket Closed.
+2016-November-28 00:21:02 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:03 > Edge Called.
+2016-November-28 00:21:03 > LED Code: 2 
+2016-November-28 00:21:03 > Socket Created.
+2016-November-28 00:21:03 > Socket bind OK.
+2016-November-28 00:21:03 > Polling BBB...
+2016-November-28 00:21:03 > UDP sent to BBB.
+2016-November-28 00:21:03 > LED OK.
+2016-November-28 00:21:03 > Socket Closed.
+2016-November-28 00:21:03 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:03 > Edge Called.
+2016-November-28 00:21:03 > LED Code: 1 
+2016-November-28 00:21:03 > Socket Created.
+2016-November-28 00:21:03 > Socket bind OK.
+2016-November-28 00:21:03 > Polling BBB...
+2016-November-28 00:21:03 > UDP sent to BBB.
+2016-November-28 00:21:03 > LED OK.
+2016-November-28 00:21:03 > Socket Closed.
+2016-November-28 00:21:03 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:04 > Edge Called.
+2016-November-28 00:21:04 > LED Code: 0 
+2016-November-28 00:21:04 > Socket Created.
+2016-November-28 00:21:04 > Socket bind OK.
+2016-November-28 00:21:04 > Polling BBB...
+2016-November-28 00:21:04 > UDP sent to BBB.
+2016-November-28 00:21:04 > LED OK.
+2016-November-28 00:21:04 > Socket Closed.
+2016-November-28 00:21:04 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:05 > Edge Called.
+2016-November-28 00:21:05 > LED Code: 2 
+2016-November-28 00:21:05 > Socket Created.
+2016-November-28 00:21:05 > Socket bind OK.
+2016-November-28 00:21:05 > Polling BBB...
+2016-November-28 00:21:05 > UDP sent to BBB.
+2016-November-28 00:21:05 > LED OK.
+2016-November-28 00:21:05 > Socket Closed.
+2016-November-28 00:21:05 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:06 > Edge Called.
+2016-November-28 00:21:06 > LED Code: 1 
+2016-November-28 00:21:06 > Socket Created.
+2016-November-28 00:21:06 > Socket bind OK.
+2016-November-28 00:21:06 > Polling BBB...
+2016-November-28 00:21:06 > UDP sent to BBB.
+2016-November-28 00:21:06 > LED OK.
+2016-November-28 00:21:06 > Socket Closed.
+2016-November-28 00:21:06 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:06 > Edge Called.
+2016-November-28 00:21:06 > LED Code: 2 
+2016-November-28 00:21:06 > Socket Created.
+2016-November-28 00:21:06 > Socket bind OK.
+2016-November-28 00:21:06 > Polling BBB...
+2016-November-28 00:21:06 > UDP sent to BBB.
+2016-November-28 00:21:06 > LED OK.
+2016-November-28 00:21:06 > Socket Closed.
+2016-November-28 00:21:06 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:07 > Edge Called.
+2016-November-28 00:21:07 > LED Code: 0 
+2016-November-28 00:21:07 > Socket Created.
+2016-November-28 00:21:07 > Socket bind OK.
+2016-November-28 00:21:07 > Polling BBB...
+2016-November-28 00:21:07 > UDP sent to BBB.
+2016-November-28 00:21:07 > LED OK.
+2016-November-28 00:21:07 > Socket Closed.
+2016-November-28 00:21:07 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:07 > Edge Called.
+2016-November-28 00:21:07 > LED Code: 2 
+2016-November-28 00:21:07 > Socket Created.
+2016-November-28 00:21:07 > Socket bind OK.
+2016-November-28 00:21:07 > Polling BBB...
+2016-November-28 00:21:07 > UDP sent to BBB.
+2016-November-28 00:21:07 > LED OK.
+2016-November-28 00:21:07 > Socket Closed.
+2016-November-28 00:21:07 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:10 > Edge Called.
+2016-November-28 00:21:10 > LED Code: 1 
+2016-November-28 00:21:10 > Socket Created.
+2016-November-28 00:21:10 > Socket bind OK.
+2016-November-28 00:21:10 > Polling BBB...
+2016-November-28 00:21:10 > UDP sent to BBB.
+2016-November-28 00:21:10 > LED OK.
+2016-November-28 00:21:10 > Socket Closed.
+2016-November-28 00:21:10 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:10 > Edge Called.
+2016-November-28 00:21:10 > LED Code: 0 
+2016-November-28 00:21:10 > Socket Created.
+2016-November-28 00:21:10 > Socket bind OK.
+2016-November-28 00:21:10 > Polling BBB...
+2016-November-28 00:21:10 > UDP sent to BBB.
+2016-November-28 00:21:10 > LED OK.
+2016-November-28 00:21:10 > Socket Closed.
+2016-November-28 00:21:10 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:11 > Edge Called.
+2016-November-28 00:21:11 > LED Code: 2 
+2016-November-28 00:21:11 > Socket Created.
+2016-November-28 00:21:11 > Socket bind OK.
+2016-November-28 00:21:11 > Polling BBB...
+2016-November-28 00:21:11 > UDP sent to BBB.
+2016-November-28 00:21:11 > LED OK.
+2016-November-28 00:21:11 > Socket Closed.
+2016-November-28 00:21:11 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:21:12 > Edge Called.
+2016-November-28 00:21:12 > LED Code: 1 
+2016-November-28 00:21:12 > Socket Created.
+2016-November-28 00:21:12 > Socket bind OK.
+2016-November-28 00:21:12 > Polling BBB...
+2016-November-28 00:21:12 > UDP sent to BBB.
+2016-November-28 00:21:12 > LED OK.
+2016-November-28 00:21:12 > Socket Closed.
+2016-November-28 00:21:12 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:24:58 > Edge Called.
+2016-November-28 00:24:58 > LED Code: 0 
+2016-November-28 00:24:58 > Socket Created.
+2016-November-28 00:24:58 > Socket bind OK.
+2016-November-28 00:24:58 > Polling BBB...
+2016-November-28 00:24:58 > UDP sent to BBB.
+2016-November-28 00:24:58 > LED OK.
+2016-November-28 00:24:58 > Socket Closed.
+2016-November-28 00:24:58 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:25:07 > Edge Called.
+2016-November-28 00:25:07 > LED Code: 2 
+2016-November-28 00:25:07 > Socket Created.
+2016-November-28 00:25:07 > Socket bind OK.
+2016-November-28 00:25:07 > Polling BBB...
+2016-November-28 00:25:07 > UDP sent to BBB.
+2016-November-28 00:25:07 > LED OK.
+2016-November-28 00:25:07 > Socket Closed.
+2016-November-28 00:25:07 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:25:13 > Edge Called.
+2016-November-28 00:25:13 > LED Code: 1 
+2016-November-28 00:25:13 > Socket Created.
+2016-November-28 00:25:13 > Socket bind OK.
+2016-November-28 00:25:13 > Polling BBB...
+2016-November-28 00:25:13 > UDP sent to BBB.
+2016-November-28 00:25:13 > LED OK.
+2016-November-28 00:25:13 > Socket Closed.
+2016-November-28 00:25:13 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:25:19 > Edge Called.
+2016-November-28 00:25:19 > LED Code: 2 
+2016-November-28 00:25:19 > Socket Created.
+2016-November-28 00:25:19 > Socket bind OK.
+2016-November-28 00:25:19 > Polling BBB...
+2016-November-28 00:25:19 > UDP sent to BBB.
+2016-November-28 00:25:19 > LED OK.
+2016-November-28 00:25:19 > Socket Closed.
+2016-November-28 00:25:19 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:25:24 > Edge Called.
+2016-November-28 00:25:24 > LED Code: 1 
+2016-November-28 00:25:24 > Socket Created.
+2016-November-28 00:25:24 > Socket bind OK.
+2016-November-28 00:25:24 > Polling BBB...
+2016-November-28 00:25:24 > UDP sent to BBB.
+2016-November-28 00:25:24 > LED OK.
+2016-November-28 00:25:24 > Socket Closed.
+2016-November-28 00:25:24 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:26:31 > Edge Called.
+2016-November-28 00:26:31 > LED Code: 2 
+2016-November-28 00:26:31 > Socket Created.
+2016-November-28 00:26:31 > Socket bind OK.
+2016-November-28 00:26:31 > Polling BBB...
+2016-November-28 00:26:31 > UDP sent to BBB.
+2016-November-28 00:26:31 > LED OK.
+2016-November-28 00:26:31 > Socket Closed.
+2016-November-28 00:26:31 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:26:34 > Edge Called.
+2016-November-28 00:26:34 > LED Code: 0 
+2016-November-28 00:26:34 > Socket Created.
+2016-November-28 00:26:34 > Socket bind OK.
+2016-November-28 00:26:34 > Polling BBB...
+2016-November-28 00:26:34 > UDP sent to BBB.
+2016-November-28 00:26:34 > LED OK.
+2016-November-28 00:26:34 > Socket Closed.
+2016-November-28 00:26:34 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:26:34 > Edge Called.
+2016-November-28 00:26:34 > LED Code: 1 
+2016-November-28 00:26:34 > Socket Created.
+2016-November-28 00:26:34 > Socket bind OK.
+2016-November-28 00:26:34 > Polling BBB...
+2016-November-28 00:26:34 > UDP sent to BBB.
+2016-November-28 00:26:34 > LED OK.
+2016-November-28 00:26:34 > Socket Closed.
+2016-November-28 00:26:34 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:26:35 > Edge Called.
+2016-November-28 00:26:35 > LED Code: 2 
+2016-November-28 00:26:35 > Socket Created.
+2016-November-28 00:26:35 > Socket bind OK.
+2016-November-28 00:26:35 > Polling BBB...
+2016-November-28 00:26:35 > UDP sent to BBB.
+2016-November-28 00:26:35 > LED OK.
+2016-November-28 00:26:35 > Socket Closed.
+2016-November-28 00:26:35 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:26:56 > Edge Called.
+2016-November-28 00:26:56 > LED Code: 1 
+2016-November-28 00:26:56 > Socket Created.
+2016-November-28 00:26:56 > Socket bind OK.
+2016-November-28 00:26:56 > Polling BBB...
+2016-November-28 00:26:56 > UDP sent to BBB.
+2016-November-28 00:26:56 > LED OK.
+2016-November-28 00:26:56 > Socket Closed.
+2016-November-28 00:26:56 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:08 > Edge Called.
+2016-November-28 00:27:08 > LED Code: 2 
+2016-November-28 00:27:08 > Socket Created.
+2016-November-28 00:27:08 > Socket bind OK.
+2016-November-28 00:27:08 > Polling BBB...
+2016-November-28 00:27:08 > UDP sent to BBB.
+2016-November-28 00:27:08 > LED OK.
+2016-November-28 00:27:08 > Socket Closed.
+2016-November-28 00:27:08 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:10 > Edge Called.
+2016-November-28 00:27:10 > LED Code: 0 
+2016-November-28 00:27:10 > Socket Created.
+2016-November-28 00:27:10 > Socket bind OK.
+2016-November-28 00:27:10 > Polling BBB...
+2016-November-28 00:27:10 > UDP sent to BBB.
+2016-November-28 00:27:10 > LED OK.
+2016-November-28 00:27:10 > Socket Closed.
+2016-November-28 00:27:10 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:11 > Edge Called.
+2016-November-28 00:27:11 > LED Code: 2 
+2016-November-28 00:27:11 > Socket Created.
+2016-November-28 00:27:11 > Socket bind OK.
+2016-November-28 00:27:11 > Polling BBB...
+2016-November-28 00:27:11 > UDP sent to BBB.
+2016-November-28 00:27:11 > LED OK.
+2016-November-28 00:27:11 > Socket Closed.
+2016-November-28 00:27:11 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:13 > Edge Called.
+2016-November-28 00:27:13 > LED Code: 1 
+2016-November-28 00:27:13 > Socket Created.
+2016-November-28 00:27:13 > Socket bind OK.
+2016-November-28 00:27:13 > Polling BBB...
+2016-November-28 00:27:13 > UDP sent to BBB.
+2016-November-28 00:27:13 > LED OK.
+2016-November-28 00:27:13 > Socket Closed.
+2016-November-28 00:27:13 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:14 > Edge Called.
+2016-November-28 00:27:14 > LED Code: 2 
+2016-November-28 00:27:14 > Socket Created.
+2016-November-28 00:27:14 > Socket bind OK.
+2016-November-28 00:27:14 > Polling BBB...
+2016-November-28 00:27:14 > UDP sent to BBB.
+2016-November-28 00:27:14 > LED OK.
+2016-November-28 00:27:14 > Socket Closed.
+2016-November-28 00:27:14 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:15 > Edge Called.
+2016-November-28 00:27:15 > LED Code: 1 
+2016-November-28 00:27:15 > Socket Created.
+2016-November-28 00:27:15 > Socket bind OK.
+2016-November-28 00:27:15 > Polling BBB...
+2016-November-28 00:27:15 > UDP sent to BBB.
+2016-November-28 00:27:15 > LED OK.
+2016-November-28 00:27:15 > Socket Closed.
+2016-November-28 00:27:15 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:16 > Edge Called.
+2016-November-28 00:27:16 > LED Code: 2 
+2016-November-28 00:27:16 > Socket Created.
+2016-November-28 00:27:16 > Socket bind OK.
+2016-November-28 00:27:16 > Polling BBB...
+2016-November-28 00:27:16 > UDP sent to BBB.
+2016-November-28 00:27:16 > LED OK.
+2016-November-28 00:27:16 > Socket Closed.
+2016-November-28 00:27:16 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:17 > Edge Called.
+2016-November-28 00:27:17 > LED Code: 1 
+2016-November-28 00:27:17 > Socket Created.
+2016-November-28 00:27:17 > Socket bind OK.
+2016-November-28 00:27:17 > Polling BBB...
+2016-November-28 00:27:17 > UDP sent to BBB.
+2016-November-28 00:27:18 > LED OK.
+2016-November-28 00:27:18 > Socket Closed.
+2016-November-28 00:27:18 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:18 > Edge Called.
+2016-November-28 00:27:18 > LED Code: 2 
+2016-November-28 00:27:18 > Socket Created.
+2016-November-28 00:27:18 > Socket bind OK.
+2016-November-28 00:27:18 > Polling BBB...
+2016-November-28 00:27:18 > UDP sent to BBB.
+2016-November-28 00:27:18 > LED OK.
+2016-November-28 00:27:18 > Socket Closed.
+2016-November-28 00:27:18 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:20 > Edge Called.
+2016-November-28 00:27:20 > LED Code: 0 
+2016-November-28 00:27:20 > Socket Created.
+2016-November-28 00:27:20 > Socket bind OK.
+2016-November-28 00:27:20 > Polling BBB...
+2016-November-28 00:27:20 > UDP sent to BBB.
+2016-November-28 00:27:20 > LED OK.
+2016-November-28 00:27:20 > Socket Closed.
+2016-November-28 00:27:20 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:27:59 > Edge Called.
+2016-November-28 00:27:59 > LED Code: 1 
+2016-November-28 00:27:59 > Socket Created.
+2016-November-28 00:27:59 > Socket bind OK.
+2016-November-28 00:27:59 > Polling BBB...
+2016-November-28 00:27:59 > UDP sent to BBB.
+2016-November-28 00:27:59 > LED OK.
+2016-November-28 00:27:59 > Socket Closed.
+2016-November-28 00:27:59 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:01 > Edge Called.
+2016-November-28 00:28:01 > LED Code: 2 
+2016-November-28 00:28:01 > Socket Created.
+2016-November-28 00:28:01 > Socket bind OK.
+2016-November-28 00:28:01 > Polling BBB...
+2016-November-28 00:28:01 > UDP sent to BBB.
+2016-November-28 00:28:01 > LED OK.
+2016-November-28 00:28:01 > Socket Closed.
+2016-November-28 00:28:01 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:09 > Edge Called.
+2016-November-28 00:28:09 > LED Code: 0 
+2016-November-28 00:28:09 > Socket Created.
+2016-November-28 00:28:09 > Socket bind OK.
+2016-November-28 00:28:09 > Polling BBB...
+2016-November-28 00:28:09 > UDP sent to BBB.
+2016-November-28 00:28:09 > LED OK.
+2016-November-28 00:28:09 > Socket Closed.
+2016-November-28 00:28:09 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:12 > Edge Called.
+2016-November-28 00:28:12 > LED Code: 1 
+2016-November-28 00:28:12 > Socket Created.
+2016-November-28 00:28:12 > Socket bind OK.
+2016-November-28 00:28:12 > Polling BBB...
+2016-November-28 00:28:12 > UDP sent to BBB.
+2016-November-28 00:28:12 > LED OK.
+2016-November-28 00:28:12 > Socket Closed.
+2016-November-28 00:28:12 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:17 > Edge Called.
+2016-November-28 00:28:17 > LED Code: 2 
+2016-November-28 00:28:17 > Socket Created.
+2016-November-28 00:28:17 > Socket bind OK.
+2016-November-28 00:28:17 > Polling BBB...
+2016-November-28 00:28:17 > UDP sent to BBB.
+2016-November-28 00:28:17 > LED OK.
+2016-November-28 00:28:17 > Socket Closed.
+2016-November-28 00:28:17 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:28 > Edge Called.
+2016-November-28 00:28:28 > LED Code: 2 
+2016-November-28 00:28:28 > Socket Created.
+2016-November-28 00:28:28 > Socket bind OK.
+2016-November-28 00:28:28 > Polling BBB...
+2016-November-28 00:28:28 > UDP sent to BBB.
+2016-November-28 00:28:28 > LED OK.
+2016-November-28 00:28:28 > Socket Closed.
+2016-November-28 00:28:28 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:28 > Edge Called.
+2016-November-28 00:28:28 > LED Code: 1 
+2016-November-28 00:28:28 > Socket Created.
+2016-November-28 00:28:28 > Socket bind OK.
+2016-November-28 00:28:28 > Polling BBB...
+2016-November-28 00:28:28 > UDP sent to BBB.
+2016-November-28 00:28:28 > LED OK.
+2016-November-28 00:28:28 > Socket Closed.
+2016-November-28 00:28:28 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:30 > Edge Called.
+2016-November-28 00:28:30 > LED Code: 0 
+2016-November-28 00:28:30 > Socket Created.
+2016-November-28 00:28:30 > Socket bind OK.
+2016-November-28 00:28:30 > Polling BBB...
+2016-November-28 00:28:30 > UDP sent to BBB.
+2016-November-28 00:28:30 > LED OK.
+2016-November-28 00:28:30 > Socket Closed.
+2016-November-28 00:28:30 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:39 > Edge Called.
+2016-November-28 00:28:39 > LED Code: 2 
+2016-November-28 00:28:39 > Socket Created.
+2016-November-28 00:28:39 > Socket bind OK.
+2016-November-28 00:28:39 > Polling BBB...
+2016-November-28 00:28:39 > UDP sent to BBB.
+2016-November-28 00:28:39 > LED OK.
+2016-November-28 00:28:39 > Socket Closed.
+2016-November-28 00:28:39 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:40 > Edge Called.
+2016-November-28 00:28:40 > LED Code: 2 
+2016-November-28 00:28:40 > Socket Created.
+2016-November-28 00:28:40 > Socket bind OK.
+2016-November-28 00:28:40 > Polling BBB...
+2016-November-28 00:28:40 > UDP sent to BBB.
+2016-November-28 00:28:40 > LED OK.
+2016-November-28 00:28:40 > Socket Closed.
+2016-November-28 00:28:40 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:41 > Edge Called.
+2016-November-28 00:28:41 > LED Code: 1 
+2016-November-28 00:28:41 > Socket Created.
+2016-November-28 00:28:41 > Socket bind OK.
+2016-November-28 00:28:41 > Polling BBB...
+2016-November-28 00:28:41 > UDP sent to BBB.
+2016-November-28 00:28:41 > LED OK.
+2016-November-28 00:28:41 > Socket Closed.
+2016-November-28 00:28:41 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:43 > Edge Called.
+2016-November-28 00:28:43 > LED Code: 0 
+2016-November-28 00:28:43 > Socket Created.
+2016-November-28 00:28:43 > Socket bind OK.
+2016-November-28 00:28:43 > Polling BBB...
+2016-November-28 00:28:43 > UDP sent to BBB.
+2016-November-28 00:28:44 > LED OK.
+2016-November-28 00:28:44 > Socket Closed.
+2016-November-28 00:28:44 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:45 > Edge Called.
+2016-November-28 00:28:45 > LED Code: 2 
+2016-November-28 00:28:45 > Socket Created.
+2016-November-28 00:28:45 > Socket bind OK.
+2016-November-28 00:28:45 > Polling BBB...
+2016-November-28 00:28:45 > UDP sent to BBB.
+2016-November-28 00:28:45 > LED OK.
+2016-November-28 00:28:45 > Socket Closed.
+2016-November-28 00:28:45 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:45 > Edge Called.
+2016-November-28 00:28:45 > LED Code: 0 
+2016-November-28 00:28:45 > Socket Created.
+2016-November-28 00:28:45 > Socket bind OK.
+2016-November-28 00:28:45 > Polling BBB...
+2016-November-28 00:28:45 > UDP sent to BBB.
+2016-November-28 00:28:45 > LED OK.
+2016-November-28 00:28:45 > Socket Closed.
+2016-November-28 00:28:45 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:49 > Edge Called.
+2016-November-28 00:28:49 > LED Code: 1 
+2016-November-28 00:28:49 > Socket Created.
+2016-November-28 00:28:49 > Socket bind OK.
+2016-November-28 00:28:49 > Polling BBB...
+2016-November-28 00:28:49 > UDP sent to BBB.
+2016-November-28 00:28:49 > LED OK.
+2016-November-28 00:28:49 > Socket Closed.
+2016-November-28 00:28:49 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:49 > Edge Called.
+2016-November-28 00:28:49 > LED Code: 2 
+2016-November-28 00:28:49 > Socket Created.
+2016-November-28 00:28:49 > Socket bind OK.
+2016-November-28 00:28:49 > Polling BBB...
+2016-November-28 00:28:49 > UDP sent to BBB.
+2016-November-28 00:28:49 > LED OK.
+2016-November-28 00:28:49 > Socket Closed.
+2016-November-28 00:28:49 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:50 > Edge Called.
+2016-November-28 00:28:50 > LED Code: 0 
+2016-November-28 00:28:50 > Socket Created.
+2016-November-28 00:28:50 > Socket bind OK.
+2016-November-28 00:28:50 > Polling BBB...
+2016-November-28 00:28:50 > UDP sent to BBB.
+2016-November-28 00:28:50 > LED OK.
+2016-November-28 00:28:50 > Socket Closed.
+2016-November-28 00:28:50 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:50 > Edge Called.
+2016-November-28 00:28:50 > LED Code: 1 
+2016-November-28 00:28:50 > Socket Created.
+2016-November-28 00:28:50 > Socket bind OK.
+2016-November-28 00:28:50 > Polling BBB...
+2016-November-28 00:28:50 > UDP sent to BBB.
+2016-November-28 00:28:50 > LED OK.
+2016-November-28 00:28:50 > Socket Closed.
+2016-November-28 00:28:50 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:50 > Edge Called.
+2016-November-28 00:28:50 > LED Code: 2 
+2016-November-28 00:28:50 > Socket Created.
+2016-November-28 00:28:50 > Socket bind OK.
+2016-November-28 00:28:50 > Polling BBB...
+2016-November-28 00:28:50 > UDP sent to BBB.
+2016-November-28 00:28:50 > LED OK.
+2016-November-28 00:28:50 > Socket Closed.
+2016-November-28 00:28:50 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:50 > Edge Called.
+2016-November-28 00:28:50 > LED Code: 1 
+2016-November-28 00:28:50 > Socket Created.
+2016-November-28 00:28:50 > Socket bind OK.
+2016-November-28 00:28:50 > Polling BBB...
+2016-November-28 00:28:50 > UDP sent to BBB.
+2016-November-28 00:28:51 > LED OK.
+2016-November-28 00:28:51 > Socket Closed.
+2016-November-28 00:28:51 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:51 > Edge Called.
+2016-November-28 00:28:51 > LED Code: 2 
+2016-November-28 00:28:51 > Socket Created.
+2016-November-28 00:28:51 > Socket bind OK.
+2016-November-28 00:28:51 > Polling BBB...
+2016-November-28 00:28:51 > UDP sent to BBB.
+2016-November-28 00:28:51 > LED OK.
+2016-November-28 00:28:51 > Socket Closed.
+2016-November-28 00:28:51 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:51 > Edge Called.
+2016-November-28 00:28:51 > LED Code: 1 
+2016-November-28 00:28:51 > Socket Created.
+2016-November-28 00:28:51 > Socket bind OK.
+2016-November-28 00:28:51 > Polling BBB...
+2016-November-28 00:28:51 > UDP sent to BBB.
+2016-November-28 00:28:51 > LED OK.
+2016-November-28 00:28:51 > Socket Closed.
+2016-November-28 00:28:51 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:51 > Edge Called.
+2016-November-28 00:28:51 > LED Code: 2 
+2016-November-28 00:28:51 > Socket Created.
+2016-November-28 00:28:51 > Socket bind OK.
+2016-November-28 00:28:51 > Polling BBB...
+2016-November-28 00:28:51 > UDP sent to BBB.
+2016-November-28 00:28:51 > LED OK.
+2016-November-28 00:28:51 > Socket Closed.
+2016-November-28 00:28:51 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:52 > Edge Called.
+2016-November-28 00:28:52 > LED Code: 1 
+2016-November-28 00:28:52 > Socket Created.
+2016-November-28 00:28:52 > Socket bind OK.
+2016-November-28 00:28:52 > Polling BBB...
+2016-November-28 00:28:52 > UDP sent to BBB.
+2016-November-28 00:28:52 > LED OK.
+2016-November-28 00:28:52 > Socket Closed.
+2016-November-28 00:28:52 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:58 > Edge Called.
+2016-November-28 00:28:58 > LED Code: 2 
+2016-November-28 00:28:58 > Socket Created.
+2016-November-28 00:28:58 > Socket bind OK.
+2016-November-28 00:28:58 > Polling BBB...
+2016-November-28 00:28:58 > UDP sent to BBB.
+2016-November-28 00:28:58 > LED OK.
+2016-November-28 00:28:58 > Socket Closed.
+2016-November-28 00:28:58 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:59 > Edge Called.
+2016-November-28 00:28:59 > LED Code: 0 
+2016-November-28 00:28:59 > Socket Created.
+2016-November-28 00:28:59 > Socket bind OK.
+2016-November-28 00:28:59 > Polling BBB...
+2016-November-28 00:28:59 > UDP sent to BBB.
+2016-November-28 00:28:59 > LED OK.
+2016-November-28 00:28:59 > Socket Closed.
+2016-November-28 00:28:59 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:59 > Edge Called.
+2016-November-28 00:28:59 > LED Code: 0 
+2016-November-28 00:28:59 > Socket Created.
+2016-November-28 00:28:59 > Socket bind OK.
+2016-November-28 00:28:59 > Polling BBB...
+2016-November-28 00:28:59 > UDP sent to BBB.
+2016-November-28 00:28:59 > LED OK.
+2016-November-28 00:28:59 > Socket Closed.
+2016-November-28 00:28:59 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:28:59 > Edge Called.
+2016-November-28 00:28:59 > LED Code: 2 
+2016-November-28 00:28:59 > Socket Created.
+2016-November-28 00:28:59 > Socket bind OK.
+2016-November-28 00:28:59 > Polling BBB...
+2016-November-28 00:28:59 > UDP sent to BBB.
+2016-November-28 00:29:00 > LED OK.
+2016-November-28 00:29:00 > Socket Closed.
+2016-November-28 00:29:00 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:00 > Edge Called.
+2016-November-28 00:29:00 > LED Code: 1 
+2016-November-28 00:29:00 > Socket Created.
+2016-November-28 00:29:00 > Socket bind OK.
+2016-November-28 00:29:00 > Polling BBB...
+2016-November-28 00:29:00 > UDP sent to BBB.
+2016-November-28 00:29:00 > LED OK.
+2016-November-28 00:29:00 > Socket Closed.
+2016-November-28 00:29:00 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:00 > Edge Called.
+2016-November-28 00:29:00 > LED Code: 2 
+2016-November-28 00:29:00 > Socket Created.
+2016-November-28 00:29:00 > Socket bind OK.
+2016-November-28 00:29:00 > Polling BBB...
+2016-November-28 00:29:00 > UDP sent to BBB.
+2016-November-28 00:29:00 > LED OK.
+2016-November-28 00:29:00 > Socket Closed.
+2016-November-28 00:29:00 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:00 > Edge Called.
+2016-November-28 00:29:00 > LED Code: 0 
+2016-November-28 00:29:00 > Socket Created.
+2016-November-28 00:29:00 > Socket bind OK.
+2016-November-28 00:29:00 > Polling BBB...
+2016-November-28 00:29:00 > UDP sent to BBB.
+2016-November-28 00:29:00 > LED OK.
+2016-November-28 00:29:00 > Socket Closed.
+2016-November-28 00:29:00 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:00 > Edge Called.
+2016-November-28 00:29:00 > LED Code: 0 
+2016-November-28 00:29:00 > Socket Created.
+2016-November-28 00:29:00 > Socket bind OK.
+2016-November-28 00:29:00 > Polling BBB...
+2016-November-28 00:29:00 > UDP sent to BBB.
+2016-November-28 00:29:00 > LED OK.
+2016-November-28 00:29:00 > Socket Closed.
+2016-November-28 00:29:00 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:01 > Edge Called.
+2016-November-28 00:29:01 > LED Code: 2 
+2016-November-28 00:29:01 > Socket Created.
+2016-November-28 00:29:01 > Socket bind OK.
+2016-November-28 00:29:01 > Polling BBB...
+2016-November-28 00:29:01 > UDP sent to BBB.
+2016-November-28 00:29:01 > LED OK.
+2016-November-28 00:29:01 > Socket Closed.
+2016-November-28 00:29:01 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:01 > Edge Called.
+2016-November-28 00:29:01 > LED Code: 1 
+2016-November-28 00:29:01 > Socket Created.
+2016-November-28 00:29:01 > Socket bind OK.
+2016-November-28 00:29:01 > Polling BBB...
+2016-November-28 00:29:01 > UDP sent to BBB.
+2016-November-28 00:29:01 > LED OK.
+2016-November-28 00:29:01 > Socket Closed.
+2016-November-28 00:29:01 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:01 > Edge Called.
+2016-November-28 00:29:01 > LED Code: 0 
+2016-November-28 00:29:01 > Socket Created.
+2016-November-28 00:29:01 > Socket bind OK.
+2016-November-28 00:29:01 > Polling BBB...
+2016-November-28 00:29:01 > UDP sent to BBB.
+2016-November-28 00:29:01 > LED OK.
+2016-November-28 00:29:01 > Socket Closed.
+2016-November-28 00:29:01 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:01 > Edge Called.
+2016-November-28 00:29:01 > LED Code: 2 
+2016-November-28 00:29:01 > Socket Created.
+2016-November-28 00:29:01 > Socket bind OK.
+2016-November-28 00:29:01 > Polling BBB...
+2016-November-28 00:29:01 > UDP sent to BBB.
+2016-November-28 00:29:01 > LED OK.
+2016-November-28 00:29:01 > Socket Closed.
+2016-November-28 00:29:01 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:02 > Edge Called.
+2016-November-28 00:29:02 > LED Code: 0 
+2016-November-28 00:29:02 > Socket Created.
+2016-November-28 00:29:02 > Socket bind OK.
+2016-November-28 00:29:02 > Polling BBB...
+2016-November-28 00:29:02 > UDP sent to BBB.
+2016-November-28 00:29:02 > LED OK.
+2016-November-28 00:29:02 > Socket Closed.
+2016-November-28 00:29:02 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:02 > Edge Called.
+2016-November-28 00:29:02 > LED Code: 2 
+2016-November-28 00:29:02 > Socket Created.
+2016-November-28 00:29:02 > Socket bind OK.
+2016-November-28 00:29:02 > Polling BBB...
+2016-November-28 00:29:02 > UDP sent to BBB.
+2016-November-28 00:29:02 > LED OK.
+2016-November-28 00:29:02 > Socket Closed.
+2016-November-28 00:29:02 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:02 > Edge Called.
+2016-November-28 00:29:02 > LED Code: 0 
+2016-November-28 00:29:02 > Socket Created.
+2016-November-28 00:29:02 > Socket bind OK.
+2016-November-28 00:29:02 > Polling BBB...
+2016-November-28 00:29:02 > UDP sent to BBB.
+2016-November-28 00:29:02 > LED OK.
+2016-November-28 00:29:02 > Socket Closed.
+2016-November-28 00:29:02 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:02 > Edge Called.
+2016-November-28 00:29:02 > LED Code: 1 
+2016-November-28 00:29:02 > Socket Created.
+2016-November-28 00:29:02 > Socket bind OK.
+2016-November-28 00:29:02 > Polling BBB...
+2016-November-28 00:29:02 > UDP sent to BBB.
+2016-November-28 00:29:02 > LED OK.
+2016-November-28 00:29:02 > Socket Closed.
+2016-November-28 00:29:02 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:03 > Edge Called.
+2016-November-28 00:29:03 > LED Code: 2 
+2016-November-28 00:29:03 > Socket Created.
+2016-November-28 00:29:03 > Socket bind OK.
+2016-November-28 00:29:03 > Polling BBB...
+2016-November-28 00:29:03 > UDP sent to BBB.
+2016-November-28 00:29:03 > LED OK.
+2016-November-28 00:29:03 > Socket Closed.
+2016-November-28 00:29:03 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:03 > Edge Called.
+2016-November-28 00:29:03 > LED Code: 0 
+2016-November-28 00:29:03 > Socket Created.
+2016-November-28 00:29:03 > Socket bind OK.
+2016-November-28 00:29:03 > Polling BBB...
+2016-November-28 00:29:03 > UDP sent to BBB.
+2016-November-28 00:29:03 > LED OK.
+2016-November-28 00:29:03 > Socket Closed.
+2016-November-28 00:29:03 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:03 > Edge Called.
+2016-November-28 00:29:03 > LED Code: 0 
+2016-November-28 00:29:03 > Socket Created.
+2016-November-28 00:29:03 > Socket bind OK.
+2016-November-28 00:29:03 > Polling BBB...
+2016-November-28 00:29:03 > UDP sent to BBB.
+2016-November-28 00:29:03 > LED OK.
+2016-November-28 00:29:03 > Socket Closed.
+2016-November-28 00:29:03 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:03 > Edge Called.
+2016-November-28 00:29:03 > LED Code: 2 
+2016-November-28 00:29:03 > Socket Created.
+2016-November-28 00:29:03 > Socket bind OK.
+2016-November-28 00:29:03 > Polling BBB...
+2016-November-28 00:29:03 > UDP sent to BBB.
+2016-November-28 00:29:03 > LED OK.
+2016-November-28 00:29:03 > Socket Closed.
+2016-November-28 00:29:03 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:03 > Edge Called.
+2016-November-28 00:29:03 > LED Code: 0 
+2016-November-28 00:29:03 > Socket Created.
+2016-November-28 00:29:03 > Socket bind OK.
+2016-November-28 00:29:03 > Polling BBB...
+2016-November-28 00:29:03 > UDP sent to BBB.
+2016-November-28 00:29:03 > LED OK.
+2016-November-28 00:29:03 > Socket Closed.
+2016-November-28 00:29:03 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:04 > Edge Called.
+2016-November-28 00:29:04 > LED Code: 1 
+2016-November-28 00:29:04 > Socket Created.
+2016-November-28 00:29:04 > Socket bind OK.
+2016-November-28 00:29:04 > Polling BBB...
+2016-November-28 00:29:04 > UDP sent to BBB.
+2016-November-28 00:29:04 > LED OK.
+2016-November-28 00:29:04 > Socket Closed.
+2016-November-28 00:29:04 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:04 > Edge Called.
+2016-November-28 00:29:04 > LED Code: 2 
+2016-November-28 00:29:04 > Socket Created.
+2016-November-28 00:29:04 > Socket bind OK.
+2016-November-28 00:29:04 > Polling BBB...
+2016-November-28 00:29:04 > UDP sent to BBB.
+2016-November-28 00:29:04 > LED OK.
+2016-November-28 00:29:04 > Socket Closed.
+2016-November-28 00:29:04 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:04 > Edge Called.
+2016-November-28 00:29:04 > LED Code: 0 
+2016-November-28 00:29:04 > Socket Created.
+2016-November-28 00:29:04 > Socket bind OK.
+2016-November-28 00:29:04 > Polling BBB...
+2016-November-28 00:29:04 > UDP sent to BBB.
+2016-November-28 00:29:04 > LED OK.
+2016-November-28 00:29:04 > Socket Closed.
+2016-November-28 00:29:04 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:05 > Edge Called.
+2016-November-28 00:29:05 > LED Code: 0 
+2016-November-28 00:29:05 > Socket Created.
+2016-November-28 00:29:05 > Socket bind OK.
+2016-November-28 00:29:05 > Polling BBB...
+2016-November-28 00:29:05 > UDP sent to BBB.
+2016-November-28 00:29:05 > LED OK.
+2016-November-28 00:29:05 > Socket Closed.
+2016-November-28 00:29:05 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:05 > Edge Called.
+2016-November-28 00:29:05 > LED Code: 1 
+2016-November-28 00:29:05 > Socket Created.
+2016-November-28 00:29:05 > Socket bind OK.
+2016-November-28 00:29:05 > Polling BBB...
+2016-November-28 00:29:05 > UDP sent to BBB.
+2016-November-28 00:29:05 > LED OK.
+2016-November-28 00:29:05 > Socket Closed.
+2016-November-28 00:29:05 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:06 > Edge Called.
+2016-November-28 00:29:06 > LED Code: 2 
+2016-November-28 00:29:06 > Socket Created.
+2016-November-28 00:29:06 > Socket bind OK.
+2016-November-28 00:29:06 > Polling BBB...
+2016-November-28 00:29:06 > UDP sent to BBB.
+2016-November-28 00:29:06 > LED OK.
+2016-November-28 00:29:06 > Socket Closed.
+2016-November-28 00:29:06 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:06 > Edge Called.
+2016-November-28 00:29:06 > LED Code: 0 
+2016-November-28 00:29:06 > Socket Created.
+2016-November-28 00:29:06 > Socket bind OK.
+2016-November-28 00:29:06 > Polling BBB...
+2016-November-28 00:29:06 > UDP sent to BBB.
+2016-November-28 00:29:06 > LED OK.
+2016-November-28 00:29:06 > Socket Closed.
+2016-November-28 00:29:06 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:06 > Edge Called.
+2016-November-28 00:29:06 > LED Code: 1 
+2016-November-28 00:29:06 > Socket Created.
+2016-November-28 00:29:06 > Socket bind OK.
+2016-November-28 00:29:06 > Polling BBB...
+2016-November-28 00:29:06 > UDP sent to BBB.
+2016-November-28 00:29:06 > LED OK.
+2016-November-28 00:29:06 > Socket Closed.
+2016-November-28 00:29:06 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:07 > Edge Called.
+2016-November-28 00:29:07 > LED Code: 2 
+2016-November-28 00:29:07 > Socket Created.
+2016-November-28 00:29:07 > Socket bind OK.
+2016-November-28 00:29:07 > Polling BBB...
+2016-November-28 00:29:07 > UDP sent to BBB.
+2016-November-28 00:29:07 > LED OK.
+2016-November-28 00:29:07 > Socket Closed.
+2016-November-28 00:29:07 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:07 > Edge Called.
+2016-November-28 00:29:07 > LED Code: 0 
+2016-November-28 00:29:07 > Socket Created.
+2016-November-28 00:29:07 > Socket bind OK.
+2016-November-28 00:29:07 > Polling BBB...
+2016-November-28 00:29:07 > UDP sent to BBB.
+2016-November-28 00:29:07 > LED OK.
+2016-November-28 00:29:07 > Socket Closed.
+2016-November-28 00:29:07 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:07 > Edge Called.
+2016-November-28 00:29:07 > LED Code: 1 
+2016-November-28 00:29:07 > Socket Created.
+2016-November-28 00:29:07 > Socket bind OK.
+2016-November-28 00:29:07 > Polling BBB...
+2016-November-28 00:29:07 > UDP sent to BBB.
+2016-November-28 00:29:07 > LED OK.
+2016-November-28 00:29:07 > Socket Closed.
+2016-November-28 00:29:07 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:08 > Edge Called.
+2016-November-28 00:29:08 > LED Code: 0 
+2016-November-28 00:29:08 > Socket Created.
+2016-November-28 00:29:08 > Socket bind OK.
+2016-November-28 00:29:08 > Polling BBB...
+2016-November-28 00:29:08 > UDP sent to BBB.
+2016-November-28 00:29:08 > LED OK.
+2016-November-28 00:29:08 > Socket Closed.
+2016-November-28 00:29:08 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:09 > Edge Called.
+2016-November-28 00:29:09 > LED Code: 0 
+2016-November-28 00:29:09 > Socket Created.
+2016-November-28 00:29:09 > Socket bind OK.
+2016-November-28 00:29:09 > Polling BBB...
+2016-November-28 00:29:09 > UDP sent to BBB.
+2016-November-28 00:29:09 > LED OK.
+2016-November-28 00:29:09 > Socket Closed.
+2016-November-28 00:29:09 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:09 > Edge Called.
+2016-November-28 00:29:09 > LED Code: 2 
+2016-November-28 00:29:09 > Socket Created.
+2016-November-28 00:29:09 > Socket bind OK.
+2016-November-28 00:29:09 > Polling BBB...
+2016-November-28 00:29:09 > UDP sent to BBB.
+2016-November-28 00:29:09 > LED OK.
+2016-November-28 00:29:09 > Socket Closed.
+2016-November-28 00:29:09 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:10 > Edge Called.
+2016-November-28 00:29:10 > LED Code: 1 
+2016-November-28 00:29:10 > Socket Created.
+2016-November-28 00:29:10 > Socket bind OK.
+2016-November-28 00:29:10 > Polling BBB...
+2016-November-28 00:29:10 > UDP sent to BBB.
+2016-November-28 00:29:10 > LED OK.
+2016-November-28 00:29:10 > Socket Closed.
+2016-November-28 00:29:10 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:10 > Edge Called.
+2016-November-28 00:29:10 > LED Code: 0 
+2016-November-28 00:29:10 > Socket Created.
+2016-November-28 00:29:10 > Socket bind OK.
+2016-November-28 00:29:10 > Polling BBB...
+2016-November-28 00:29:10 > UDP sent to BBB.
+2016-November-28 00:29:10 > LED OK.
+2016-November-28 00:29:10 > Socket Closed.
+2016-November-28 00:29:10 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:10 > Edge Called.
+2016-November-28 00:29:10 > LED Code: 0 
+2016-November-28 00:29:10 > Socket Created.
+2016-November-28 00:29:10 > Socket bind OK.
+2016-November-28 00:29:10 > Polling BBB...
+2016-November-28 00:29:10 > UDP sent to BBB.
+2016-November-28 00:29:11 > LED OK.
+2016-November-28 00:29:11 > Socket Closed.
+2016-November-28 00:29:11 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:11 > Edge Called.
+2016-November-28 00:29:11 > LED Code: 2 
+2016-November-28 00:29:11 > Socket Created.
+2016-November-28 00:29:11 > Socket bind OK.
+2016-November-28 00:29:11 > Polling BBB...
+2016-November-28 00:29:11 > UDP sent to BBB.
+2016-November-28 00:29:11 > LED OK.
+2016-November-28 00:29:11 > Socket Closed.
+2016-November-28 00:29:11 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:29:12 > Edge Called.
+2016-November-28 00:29:12 > LED Code: 1 
+2016-November-28 00:29:12 > Socket Created.
+2016-November-28 00:29:12 > Socket bind OK.
+2016-November-28 00:29:12 > Polling BBB...
+2016-November-28 00:29:12 > UDP sent to BBB.
+2016-November-28 00:29:12 > LED OK.
+2016-November-28 00:29:12 > Socket Closed.
+2016-November-28 00:29:12 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:31:17 > Edge Called.
+2016-November-28 00:31:17 > LED Code: 2 
+2016-November-28 00:31:17 > Socket Created.
+2016-November-28 00:31:17 > Socket bind OK.
+2016-November-28 00:31:17 > Polling BBB...
+2016-November-28 00:31:17 > UDP sent to BBB.
+2016-November-28 00:31:17 > LED OK.
+2016-November-28 00:31:17 > Socket Closed.
+2016-November-28 00:31:17 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 00:31:21 > Edge Called.
+2016-November-28 00:31:21 > LED Code: 0 
+2016-November-28 00:31:21 > Socket Created.
+2016-November-28 00:31:21 > Socket bind OK.
+2016-November-28 00:31:21 > Polling BBB...
+2016-November-28 00:31:21 > UDP sent to BBB.
+2016-November-28 00:31:21 > LED OK.
+2016-November-28 00:31:21 > Socket Closed.
+2016-November-28 00:31:21 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:10:01 > Edge Called.
+2016-November-28 01:10:01 > LED Code: 2 
+2016-November-28 01:10:01 > Socket Created.
+2016-November-28 01:10:01 > Socket bind OK.
+2016-November-28 01:10:01 > Polling BBB...
+2016-November-28 01:10:01 > UDP sent to BBB.
+2016-November-28 01:10:01 > LED OK.
+2016-November-28 01:10:01 > Socket Closed.
+2016-November-28 01:10:01 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:10:06 > Edge Called.
+2016-November-28 01:10:06 > LED Code: 1 
+2016-November-28 01:10:06 > Socket Created.
+2016-November-28 01:10:06 > Socket bind OK.
+2016-November-28 01:10:06 > Polling BBB...
+2016-November-28 01:10:06 > UDP sent to BBB.
+2016-November-28 01:10:06 > LED OK.
+2016-November-28 01:10:06 > Socket Closed.
+2016-November-28 01:10:06 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:10:10 > Edge Called.
+2016-November-28 01:10:10 > LED Code: 0 
+2016-November-28 01:10:10 > Socket Created.
+2016-November-28 01:10:10 > Socket bind OK.
+2016-November-28 01:10:10 > Polling BBB...
+2016-November-28 01:10:10 > UDP sent to BBB.
+2016-November-28 01:10:10 > LED OK.
+2016-November-28 01:10:10 > Socket Closed.
+2016-November-28 01:10:10 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:25:21 > Edge Called.
+2016-November-28 01:25:21 > LED Code: 0 
+2016-November-28 01:25:21 > Socket Created.
+2016-November-28 01:25:21 > Socket bind OK.
+2016-November-28 01:25:21 > Polling BBB...
+2016-November-28 01:25:21 > UDP sent to BBB.
+2016-November-28 01:25:21 > LED OK.
+2016-November-28 01:25:21 > Socket Closed.
+2016-November-28 01:25:21 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:25:26 > Edge Called.
+2016-November-28 01:25:26 > LED Code: 0 
+2016-November-28 01:25:26 > Socket Created.
+2016-November-28 01:25:26 > Socket bind OK.
+2016-November-28 01:25:26 > Polling BBB...
+2016-November-28 01:25:26 > UDP sent to BBB.
+2016-November-28 01:25:26 > LED OK.
+2016-November-28 01:25:26 > Socket Closed.
+2016-November-28 01:25:26 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:25:31 > Edge Called.
+2016-November-28 01:25:31 > LED Code: 0 
+2016-November-28 01:25:31 > Socket Created.
+2016-November-28 01:25:31 > Socket bind OK.
+2016-November-28 01:25:31 > Polling BBB...
+2016-November-28 01:25:31 > UDP sent to BBB.
+2016-November-28 01:25:31 > LED OK.
+2016-November-28 01:25:31 > Socket Closed.
+2016-November-28 01:25:31 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:25:36 > Edge Called.
+2016-November-28 01:25:36 > LED Code: 0 
+2016-November-28 01:25:36 > Socket Created.
+2016-November-28 01:25:36 > Socket bind OK.
+2016-November-28 01:25:36 > Polling BBB...
+2016-November-28 01:25:36 > UDP sent to BBB.
+2016-November-28 01:25:36 > LED OK.
+2016-November-28 01:25:36 > Socket Closed.
+2016-November-28 01:25:36 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:25:41 > Edge Called.
+2016-November-28 01:25:41 > LED Code: 0 
+2016-November-28 01:25:41 > Socket Created.
+2016-November-28 01:25:41 > Socket bind OK.
+2016-November-28 01:25:41 > Polling BBB...
+2016-November-28 01:25:41 > UDP sent to BBB.
+2016-November-28 01:25:41 > LED OK.
+2016-November-28 01:25:41 > Socket Closed.
+2016-November-28 01:25:41 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:25:46 > Edge Called.
+2016-November-28 01:25:46 > LED Code: 0 
+2016-November-28 01:25:46 > Socket Created.
+2016-November-28 01:25:46 > Socket bind OK.
+2016-November-28 01:25:46 > Polling BBB...
+2016-November-28 01:25:46 > UDP sent to BBB.
+2016-November-28 01:25:46 > LED OK.
+2016-November-28 01:25:46 > Socket Closed.
+2016-November-28 01:25:46 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:25:51 > Edge Called.
+2016-November-28 01:25:51 > LED Code: 0 
+2016-November-28 01:25:51 > Socket Created.
+2016-November-28 01:25:51 > Socket bind OK.
+2016-November-28 01:25:51 > Polling BBB...
+2016-November-28 01:25:51 > UDP sent to BBB.
+2016-November-28 01:25:51 > LED OK.
+2016-November-28 01:25:51 > Socket Closed.
+2016-November-28 01:25:51 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:25:53 > Edge Called.
+2016-November-28 01:25:53 > LED Code: 2 
+2016-November-28 01:25:53 > Socket Created.
+2016-November-28 01:25:53 > Socket bind OK.
+2016-November-28 01:25:53 > Polling BBB...
+2016-November-28 01:25:53 > UDP sent to BBB.
+2016-November-28 01:25:53 > LED OK.
+2016-November-28 01:25:53 > Socket Closed.
+2016-November-28 01:25:53 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:25:56 > Edge Called.
+2016-November-28 01:25:56 > LED Code: 0 
+2016-November-28 01:25:56 > Socket Created.
+2016-November-28 01:25:56 > Socket bind OK.
+2016-November-28 01:25:56 > Polling BBB...
+2016-November-28 01:25:56 > UDP sent to BBB.
+2016-November-28 01:25:56 > LED OK.
+2016-November-28 01:25:56 > Socket Closed.
+2016-November-28 01:25:56 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:26:01 > Edge Called.
+2016-November-28 01:26:01 > LED Code: 0 
+2016-November-28 01:26:01 > Socket Created.
+2016-November-28 01:26:01 > Socket bind OK.
+2016-November-28 01:26:01 > Polling BBB...
+2016-November-28 01:26:01 > UDP sent to BBB.
+2016-November-28 01:26:01 > LED OK.
+2016-November-28 01:26:01 > Socket Closed.
+2016-November-28 01:26:01 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:26:06 > Edge Called.
+2016-November-28 01:26:06 > LED Code: 0 
+2016-November-28 01:26:06 > Socket Created.
+2016-November-28 01:26:06 > Socket bind OK.
+2016-November-28 01:26:06 > Polling BBB...
+2016-November-28 01:26:06 > UDP sent to BBB.
+2016-November-28 01:26:06 > LED OK.
+2016-November-28 01:26:06 > Socket Closed.
+2016-November-28 01:26:06 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:26:11 > Edge Called.
+2016-November-28 01:26:11 > LED Code: 0 
+2016-November-28 01:26:11 > Socket Created.
+2016-November-28 01:26:11 > Socket bind OK.
+2016-November-28 01:26:11 > Polling BBB...
+2016-November-28 01:26:11 > UDP sent to BBB.
+2016-November-28 01:26:11 > LED OK.
+2016-November-28 01:26:11 > Socket Closed.
+2016-November-28 01:26:11 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:26:16 > Edge Called.
+2016-November-28 01:26:16 > LED Code: 0 
+2016-November-28 01:26:16 > Socket Created.
+2016-November-28 01:26:16 > Socket bind OK.
+2016-November-28 01:26:16 > Polling BBB...
+2016-November-28 01:26:16 > UDP sent to BBB.
+2016-November-28 01:26:16 > LED OK.
+2016-November-28 01:26:16 > Socket Closed.
+2016-November-28 01:26:16 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:27:16 > Edge Called.
+2016-November-28 01:27:16 > LED Code: 0 
+2016-November-28 01:27:16 > Socket Created.
+2016-November-28 01:27:16 > Socket bind OK.
+2016-November-28 01:27:16 > Polling BBB...
+2016-November-28 01:27:16 > UDP sent to BBB.
+2016-November-28 01:27:16 > LED OK.
+2016-November-28 01:27:16 > Socket Closed.
+2016-November-28 01:27:16 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:27:23 > Edge Called.
+2016-November-28 01:27:23 > LED Code: 0 
+2016-November-28 01:27:23 > Socket Created.
+2016-November-28 01:27:23 > Socket bind OK.
+2016-November-28 01:27:23 > Polling BBB...
+2016-November-28 01:27:23 > UDP sent to BBB.
+2016-November-28 01:27:23 > LED OK.
+2016-November-28 01:27:23 > Socket Closed.
+2016-November-28 01:27:23 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:27:30 > Edge Called.
+2016-November-28 01:27:30 > LED Code: 0 
+2016-November-28 01:27:30 > Socket Created.
+2016-November-28 01:27:30 > Socket bind OK.
+2016-November-28 01:27:30 > Polling BBB...
+2016-November-28 01:27:30 > UDP sent to BBB.
+2016-November-28 01:27:30 > LED OK.
+2016-November-28 01:27:30 > Socket Closed.
+2016-November-28 01:27:30 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:27:37 > Edge Called.
+2016-November-28 01:27:37 > LED Code: 0 
+2016-November-28 01:27:37 > Socket Created.
+2016-November-28 01:27:37 > Socket bind OK.
+2016-November-28 01:27:37 > Polling BBB...
+2016-November-28 01:27:37 > UDP sent to BBB.
+2016-November-28 01:27:37 > LED OK.
+2016-November-28 01:27:37 > Socket Closed.
+2016-November-28 01:27:37 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:27:44 > Edge Called.
+2016-November-28 01:27:44 > LED Code: 0 
+2016-November-28 01:27:44 > Socket Created.
+2016-November-28 01:27:44 > Socket bind OK.
+2016-November-28 01:27:44 > Polling BBB...
+2016-November-28 01:27:44 > UDP sent to BBB.
+2016-November-28 01:27:44 > LED OK.
+2016-November-28 01:27:44 > Socket Closed.
+2016-November-28 01:27:44 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:27:51 > Edge Called.
+2016-November-28 01:27:51 > LED Code: 0 
+2016-November-28 01:27:51 > Socket Created.
+2016-November-28 01:27:51 > Socket bind OK.
+2016-November-28 01:27:51 > Polling BBB...
+2016-November-28 01:27:51 > UDP sent to BBB.
+2016-November-28 01:27:51 > LED OK.
+2016-November-28 01:27:51 > Socket Closed.
+2016-November-28 01:27:51 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:29:29 > Edge Called.
+2016-November-28 01:29:29 > LED Code: 0 
+2016-November-28 01:29:29 > Socket Created.
+2016-November-28 01:29:29 > Socket bind OK.
+2016-November-28 01:29:29 > Polling BBB...
+2016-November-28 01:29:29 > UDP sent to BBB.
+2016-November-28 01:29:29 > LED OK.
+2016-November-28 01:29:29 > Socket Closed.
+2016-November-28 01:29:29 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:29:37 > Edge Called.
+2016-November-28 01:29:37 > LED Code: 1 
+2016-November-28 01:29:37 > Socket Created.
+2016-November-28 01:29:37 > Socket bind OK.
+2016-November-28 01:29:37 > Polling BBB...
+2016-November-28 01:29:37 > UDP sent to BBB.
+2016-November-28 01:29:37 > LED OK.
+2016-November-28 01:29:37 > Socket Closed.
+2016-November-28 01:29:37 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:29:50 > Edge Called.
+2016-November-28 01:29:50 > LED Code: 0 
+2016-November-28 01:29:50 > Socket Created.
+2016-November-28 01:29:50 > Socket bind OK.
+2016-November-28 01:29:50 > Polling BBB...
+2016-November-28 01:29:50 > UDP sent to BBB.
+2016-November-28 01:29:50 > LED OK.
+2016-November-28 01:29:50 > Socket Closed.
+2016-November-28 01:29:50 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:30:16 > Edge Called.
+2016-November-28 01:30:16 > LED Code: 1 
+2016-November-28 01:30:16 > Socket Created.
+2016-November-28 01:30:16 > Socket bind OK.
+2016-November-28 01:30:16 > Polling BBB...
+2016-November-28 01:30:16 > UDP sent to BBB.
+2016-November-28 01:30:16 > LED OK.
+2016-November-28 01:30:16 > Socket Closed.
+2016-November-28 01:30:16 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:30:17 > Edge Called.
+2016-November-28 01:30:17 > LED Code: 2 
+2016-November-28 01:30:17 > Socket Created.
+2016-November-28 01:30:17 > Socket bind OK.
+2016-November-28 01:30:17 > Polling BBB...
+2016-November-28 01:30:17 > UDP sent to BBB.
+2016-November-28 01:30:17 > LED OK.
+2016-November-28 01:30:17 > Socket Closed.
+2016-November-28 01:30:17 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:30:18 > Edge Called.
+2016-November-28 01:30:18 > LED Code: 0 
+2016-November-28 01:30:18 > Socket Created.
+2016-November-28 01:30:18 > Socket bind OK.
+2016-November-28 01:30:18 > Polling BBB...
+2016-November-28 01:30:18 > UDP sent to BBB.
+2016-November-28 01:30:18 > LED OK.
+2016-November-28 01:30:18 > Socket Closed.
+2016-November-28 01:30:18 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:30:31 > Edge Called.
+2016-November-28 01:30:31 > LED Code: 2 
+2016-November-28 01:30:31 > Socket Created.
+2016-November-28 01:30:31 > Socket bind OK.
+2016-November-28 01:30:31 > Polling BBB...
+2016-November-28 01:30:31 > UDP sent to BBB.
+2016-November-28 01:30:31 > LED OK.
+2016-November-28 01:30:31 > Socket Closed.
+2016-November-28 01:30:31 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:30:38 > Edge Called.
+2016-November-28 01:30:38 > LED Code: 2 
+2016-November-28 01:30:38 > Socket Created.
+2016-November-28 01:30:38 > Socket bind OK.
+2016-November-28 01:30:38 > Polling BBB...
+2016-November-28 01:30:38 > UDP sent to BBB.
+2016-November-28 01:30:38 > LED OK.
+2016-November-28 01:30:38 > Socket Closed.
+2016-November-28 01:30:38 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:30:45 > Edge Called.
+2016-November-28 01:30:45 > LED Code: 1 
+2016-November-28 01:30:45 > Socket Created.
+2016-November-28 01:30:45 > Socket bind OK.
+2016-November-28 01:30:45 > Polling BBB...
+2016-November-28 01:30:45 > UDP sent to BBB.
+2016-November-28 01:30:45 > LED OK.
+2016-November-28 01:30:45 > Socket Closed.
+2016-November-28 01:30:45 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:30:52 > Edge Called.
+2016-November-28 01:30:52 > LED Code: 1 
+2016-November-28 01:30:52 > Socket Created.
+2016-November-28 01:30:52 > Socket bind OK.
+2016-November-28 01:30:52 > Polling BBB...
+2016-November-28 01:30:52 > UDP sent to BBB.
+2016-November-28 01:30:52 > LED OK.
+2016-November-28 01:30:52 > Socket Closed.
+2016-November-28 01:30:52 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:30:59 > Edge Called.
+2016-November-28 01:30:59 > LED Code: 1 
+2016-November-28 01:30:59 > Socket Created.
+2016-November-28 01:30:59 > Socket bind OK.
+2016-November-28 01:30:59 > Polling BBB...
+2016-November-28 01:30:59 > UDP sent to BBB.
+2016-November-28 01:30:59 > LED OK.
+2016-November-28 01:30:59 > Socket Closed.
+2016-November-28 01:30:59 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:31:06 > Edge Called.
+2016-November-28 01:31:06 > LED Code: 1 
+2016-November-28 01:31:06 > Socket Created.
+2016-November-28 01:31:06 > Socket bind OK.
+2016-November-28 01:31:06 > Polling BBB...
+2016-November-28 01:31:06 > UDP sent to BBB.
+2016-November-28 01:31:06 > LED OK.
+2016-November-28 01:31:06 > Socket Closed.
+2016-November-28 01:31:06 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:31:13 > Edge Called.
+2016-November-28 01:31:13 > LED Code: 1 
+2016-November-28 01:31:13 > Socket Created.
+2016-November-28 01:31:13 > Socket bind OK.
+2016-November-28 01:31:13 > Polling BBB...
+2016-November-28 01:31:13 > UDP sent to BBB.
+2016-November-28 01:31:13 > LED OK.
+2016-November-28 01:31:13 > Socket Closed.
+2016-November-28 01:31:13 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:31:20 > Edge Called.
+2016-November-28 01:31:20 > LED Code: 1 
+2016-November-28 01:31:20 > Socket Created.
+2016-November-28 01:31:20 > Socket bind OK.
+2016-November-28 01:31:20 > Polling BBB...
+2016-November-28 01:31:20 > UDP sent to BBB.
+2016-November-28 01:31:20 > LED OK.
+2016-November-28 01:31:20 > Socket Closed.
+2016-November-28 01:31:20 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:31:48 > Edge Called.
+2016-November-28 01:31:48 > LED Code: 1 
+2016-November-28 01:31:48 > Socket Created.
+2016-November-28 01:31:48 > Socket bind OK.
+2016-November-28 01:31:48 > Polling BBB...
+2016-November-28 01:31:48 > UDP sent to BBB.
+2016-November-28 01:31:48 > LED OK.
+2016-November-28 01:31:48 > Socket Closed.
+2016-November-28 01:31:48 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:31:53 > Edge Called.
+2016-November-28 01:31:53 > LED Code: 1 
+2016-November-28 01:31:53 > Socket Created.
+2016-November-28 01:31:53 > Socket bind OK.
+2016-November-28 01:31:53 > Polling BBB...
+2016-November-28 01:31:53 > UDP sent to BBB.
+2016-November-28 01:31:53 > LED OK.
+2016-November-28 01:31:53 > Socket Closed.
+2016-November-28 01:31:53 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:31:58 > Edge Called.
+2016-November-28 01:31:58 > LED Code: 1 
+2016-November-28 01:31:58 > Socket Created.
+2016-November-28 01:31:58 > Socket bind OK.
+2016-November-28 01:31:58 > Polling BBB...
+2016-November-28 01:31:58 > UDP sent to BBB.
+2016-November-28 01:31:58 > LED OK.
+2016-November-28 01:31:58 > Socket Closed.
+2016-November-28 01:31:58 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:32:03 > Edge Called.
+2016-November-28 01:32:03 > LED Code: 1 
+2016-November-28 01:32:03 > Socket Created.
+2016-November-28 01:32:03 > Socket bind OK.
+2016-November-28 01:32:03 > Polling BBB...
+2016-November-28 01:32:03 > UDP sent to BBB.
+2016-November-28 01:32:03 > LED OK.
+2016-November-28 01:32:03 > Socket Closed.
+2016-November-28 01:32:03 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:32:13 > Edge Called.
+2016-November-28 01:32:13 > LED Code: 1 
+2016-November-28 01:32:13 > Socket Created.
+2016-November-28 01:32:13 > Socket bind OK.
+2016-November-28 01:32:13 > Polling BBB...
+2016-November-28 01:32:13 > UDP sent to BBB.
+2016-November-28 01:32:13 > LED OK.
+2016-November-28 01:32:13 > Socket Closed.
+2016-November-28 01:32:13 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:32:18 > Edge Called.
+2016-November-28 01:32:18 > LED Code: 2 
+2016-November-28 01:32:18 > Socket Created.
+2016-November-28 01:32:18 > Socket bind OK.
+2016-November-28 01:32:18 > Polling BBB...
+2016-November-28 01:32:18 > UDP sent to BBB.
+2016-November-28 01:32:18 > LED OK.
+2016-November-28 01:32:18 > Socket Closed.
+2016-November-28 01:32:18 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:32:23 > Edge Called.
+2016-November-28 01:32:23 > LED Code: 1 
+2016-November-28 01:32:23 > Socket Created.
+2016-November-28 01:32:23 > Socket bind OK.
+2016-November-28 01:32:23 > Polling BBB...
+2016-November-28 01:32:23 > UDP sent to BBB.
+2016-November-28 01:32:23 > LED OK.
+2016-November-28 01:32:23 > Socket Closed.
+2016-November-28 01:32:23 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:32:28 > Edge Called.
+2016-November-28 01:32:28 > LED Code: 1 
+2016-November-28 01:32:28 > Socket Created.
+2016-November-28 01:32:28 > Socket bind OK.
+2016-November-28 01:32:28 > Polling BBB...
+2016-November-28 01:32:28 > UDP sent to BBB.
+2016-November-28 01:32:28 > LED OK.
+2016-November-28 01:32:28 > Socket Closed.
+2016-November-28 01:32:28 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:32:33 > Edge Called.
+2016-November-28 01:32:33 > LED Code: 2 
+2016-November-28 01:32:33 > Socket Created.
+2016-November-28 01:32:33 > Socket bind OK.
+2016-November-28 01:32:33 > Polling BBB...
+2016-November-28 01:32:33 > UDP sent to BBB.
+2016-November-28 01:32:33 > LED OK.
+2016-November-28 01:32:33 > Socket Closed.
+2016-November-28 01:32:33 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:32:38 > Edge Called.
+2016-November-28 01:32:38 > LED Code: 2 
+2016-November-28 01:32:38 > Socket Created.
+2016-November-28 01:32:38 > Socket bind OK.
+2016-November-28 01:32:38 > Polling BBB...
+2016-November-28 01:32:38 > UDP sent to BBB.
+2016-November-28 01:32:38 > LED OK.
+2016-November-28 01:32:38 > Socket Closed.
+2016-November-28 01:32:38 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:32:43 > Edge Called.
+2016-November-28 01:32:43 > LED Code: 2 
+2016-November-28 01:32:43 > Socket Created.
+2016-November-28 01:32:43 > Socket bind OK.
+2016-November-28 01:32:43 > Polling BBB...
+2016-November-28 01:32:43 > UDP sent to BBB.
+2016-November-28 01:32:43 > LED OK.
+2016-November-28 01:32:43 > Socket Closed.
+2016-November-28 01:32:43 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:32:48 > Edge Called.
+2016-November-28 01:32:48 > LED Code: 0 
+2016-November-28 01:32:48 > Socket Created.
+2016-November-28 01:32:48 > Socket bind OK.
+2016-November-28 01:32:48 > Polling BBB...
+2016-November-28 01:32:48 > UDP sent to BBB.
+2016-November-28 01:32:48 > LED OK.
+2016-November-28 01:32:48 > Socket Closed.
+2016-November-28 01:32:48 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:36:39 > Edge Called.
+2016-November-28 01:36:39 > LED Code: 1 
+2016-November-28 01:36:39 > Socket Created.
+2016-November-28 01:36:39 > Socket bind OK.
+2016-November-28 01:36:39 > Polling BBB...
+2016-November-28 01:36:39 > UDP sent to BBB.
+2016-November-28 01:36:39 > LED OK.
+2016-November-28 01:36:39 > Socket Closed.
+2016-November-28 01:36:39 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:36:46 > Edge Called.
+2016-November-28 01:36:46 > LED Code: 1 
+2016-November-28 01:36:46 > Socket Created.
+2016-November-28 01:36:46 > Socket bind OK.
+2016-November-28 01:36:46 > Polling BBB...
+2016-November-28 01:36:46 > UDP sent to BBB.
+2016-November-28 01:36:46 > LED OK.
+2016-November-28 01:36:46 > Socket Closed.
+2016-November-28 01:36:46 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:36:53 > Edge Called.
+2016-November-28 01:36:53 > LED Code: 1 
+2016-November-28 01:36:53 > Socket Created.
+2016-November-28 01:36:53 > Socket bind OK.
+2016-November-28 01:36:53 > Polling BBB...
+2016-November-28 01:36:53 > UDP sent to BBB.
+2016-November-28 01:36:53 > LED OK.
+2016-November-28 01:36:53 > Socket Closed.
+2016-November-28 01:36:53 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:37:00 > Edge Called.
+2016-November-28 01:37:00 > LED Code: 1 
+2016-November-28 01:37:00 > Socket Created.
+2016-November-28 01:37:00 > Socket bind OK.
+2016-November-28 01:37:00 > Polling BBB...
+2016-November-28 01:37:00 > UDP sent to BBB.
+2016-November-28 01:37:00 > LED OK.
+2016-November-28 01:37:00 > Socket Closed.
+2016-November-28 01:37:00 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:37:07 > Edge Called.
+2016-November-28 01:37:07 > LED Code: 2 
+2016-November-28 01:37:07 > Socket Created.
+2016-November-28 01:37:07 > Socket bind OK.
+2016-November-28 01:37:07 > Polling BBB...
+2016-November-28 01:37:07 > UDP sent to BBB.
+2016-November-28 01:37:07 > LED OK.
+2016-November-28 01:37:07 > Socket Closed.
+2016-November-28 01:37:07 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:37:14 > Edge Called.
+2016-November-28 01:37:14 > LED Code: 2 
+2016-November-28 01:37:14 > Socket Created.
+2016-November-28 01:37:14 > Socket bind OK.
+2016-November-28 01:37:14 > Polling BBB...
+2016-November-28 01:37:14 > UDP sent to BBB.
+2016-November-28 01:37:14 > LED OK.
+2016-November-28 01:37:14 > Socket Closed.
+2016-November-28 01:37:14 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:37:21 > Edge Called.
+2016-November-28 01:37:21 > LED Code: 2 
+2016-November-28 01:37:21 > Socket Created.
+2016-November-28 01:37:21 > Socket bind OK.
+2016-November-28 01:37:21 > Polling BBB...
+2016-November-28 01:37:21 > UDP sent to BBB.
+2016-November-28 01:37:21 > LED OK.
+2016-November-28 01:37:21 > Socket Closed.
+2016-November-28 01:37:21 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:37:28 > Edge Called.
+2016-November-28 01:37:28 > LED Code: 2 
+2016-November-28 01:37:28 > Socket Created.
+2016-November-28 01:37:28 > Socket bind OK.
+2016-November-28 01:37:28 > Polling BBB...
+2016-November-28 01:37:28 > UDP sent to BBB.
+2016-November-28 01:37:28 > LED OK.
+2016-November-28 01:37:28 > Socket Closed.
+2016-November-28 01:37:28 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:37:35 > Edge Called.
+2016-November-28 01:37:35 > LED Code: 1 
+2016-November-28 01:37:35 > Socket Created.
+2016-November-28 01:37:35 > Socket bind OK.
+2016-November-28 01:37:35 > Polling BBB...
+2016-November-28 01:37:35 > UDP sent to BBB.
+2016-November-28 01:37:35 > LED OK.
+2016-November-28 01:37:35 > Socket Closed.
+2016-November-28 01:37:35 > =-EOE-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2016-November-28 01:37:39 > Edge Called.
+2016-November-28 01:37:39 > LED Code: 0 
+2016-November-28 01:37:39 > Socket Created.
+2016-November-28 01:37:39 > Socket bind OK.
+2016-November-28 01:37:39 > Polling BBB...
+2016-November-28 01:37:39 > UDP sent to BBB.
+2016-November-28 01:37:39 > LED OK.
+2016-November-28 01:37:39 > Socket Closed.
+2016-November-28 01:37:39 > =-EOE-=

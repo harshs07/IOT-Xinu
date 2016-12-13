@@ -1,0 +1,11 @@
+	switch(tempMode) {
+		case 1:
+			adc_csrptr->step[0].step_config |= STEP_AVG0;
+			break;
+		case 2:
+			adc_csrptr->step[0].step_config |= STEP_AVG8;
+			break;
+		case 3:
+			adc_csrptr->step[0].step_config |= STEP_AVG16;
+			break;
+	}

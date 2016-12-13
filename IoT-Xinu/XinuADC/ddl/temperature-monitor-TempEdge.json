@@ -1,0 +1,1 @@
+{"parameters": [{"range": [3, 5, 7, 11, 13], "type": "integer", "name": "frequency"}, {"range": [60], "type": "integer", "name": "timeout"}, {"range": [1, 2, 3], "type": "integer", "name": "precision"}], "sourceId": "temperature-monitor", "url": "192.168.2.7/TempEdge", "destinationId": "TempEdge", "mode": "TCP", "type": "restful", "id": "cloud-getTemp"}

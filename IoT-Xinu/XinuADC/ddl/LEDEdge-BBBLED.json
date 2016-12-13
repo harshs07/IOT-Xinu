@@ -1,0 +1,1 @@
+{"parameters": [{"type": "string", "name": "led0"}, {"type": "string", "name": "led1"}, {"type": "string", "name": "led2"}], "sourceId": "LEDEdge", "ip": "192.168.2.3", "port": 31000, "destinationId": "BBBLED", "mode": "UDP", "type": "beaglebone", "id": "edge-SetLED"}

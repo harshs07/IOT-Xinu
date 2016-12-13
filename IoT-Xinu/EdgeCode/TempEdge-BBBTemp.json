@@ -1,0 +1,1 @@
+{"parameters": [{"type": "string", "name": "GetTemp1"}, {"type": "string", "name": "GetTemp2"}, {"type": "string", "name": "GetTemp3"}], "sourceId": "TempEdge", "ip": "192.168.2.2", "port": 31000, "destinationId": "BBBTemp", "mode": "UDP", "type": "beaglebone", "id": "edge-getTemp"}

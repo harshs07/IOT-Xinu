@@ -1,0 +1,19 @@
+void WriteLED_Pins(uint32 arg) {
+	switch(arg) {
+		case 0:
+			pin_high(8, 12);
+			pin_high(8, 11);
+			pin_high(8, 41);
+			break;
+		case 1:
+			pin_high(8, 12);
+			pin_low(8, 11);
+			pin_high(8, 41);
+			break;
+		case 2:
+			pin_high(8, 12);
+			pin_high(8, 11);
+			pin_low(8, 41);
+			break;
+	}
+}
